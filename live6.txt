@@ -3,6 +3,7 @@
 
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻,http://211.72.65.236:8541/.m3u8
 中天新闻,http://194.87.101.118/live.m3u8?c=7
 中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
@@ -10,7 +11,7 @@
 中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 中天新闻,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-
+中天新闻,https://test.zapi.us.kg/?id=cti-news
 
 
 
