@@ -1,10 +1,10 @@
 {
 "urls":[
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"app线路"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/adult.json","name":"adult"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"app线路"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/adult.json","name":"adult"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},
 {"url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},  
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"},
 {"url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"}, 
 {"url":"http://www.饭太硬.com/tv/","name":"饭太"},
 {"url":"https://www.100km.top/0","name":"10"},
@@ -14,6 +14,6 @@
 {"url":"https://神器每日推送.tk/pz.json","name":"神器"},
 {"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json","name":"香雅情"},
 {"url":"https://tvbox.cainisi.cf","name":"妮丝"},
-{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/shower007/tvbox/refs/heads/master/9918.json","name":"小雅"}
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/shower007/tvbox/refs/heads/master/9918.json","name":"小雅"}
 ]
 }
