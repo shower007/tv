@@ -1,19 +1,19 @@
 {
 "urls":[
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"app线路"},
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/adult.json","name":"adult"},
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json","name":"app线路"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/adult.json","name":"adult"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},
 {"url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json","name":"panda Groove"},  
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"},
 {"url":"https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json","name":"南瓜"}, 
 {"url":"http://www.饭太硬.com/tv/","name":"饭太"},
 {"url":"https://www.100km.top/0","name":"10"},
 {"url":"http://ceshi.肥猫.com/PandaQ","name":"肥猫"},
 {"url":"http://tv.nxog.top/m/","name":"讴歌"},
-{"url":"https://ghp.ci//https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name":"蜂蜜"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name":"蜂蜜"},
 {"url":"https://神器每日推送.tk/pz.json","name":"神器"},
-{"url":"https://ghp.ci/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json","name":"香雅情"},
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json","name":"香雅情"},
 {"url":"https://tvbox.cainisi.cf","name":"妮丝"},
-{"url":"http://drpy.site/js1","name":"小雅"}
+{"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/shower007/tvbox/refs/heads/master/9918.json","name":"小雅"}
 ]
 }
