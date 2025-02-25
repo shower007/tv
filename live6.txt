@@ -12,7 +12,10 @@
 中天新闻,https://test.zapi.us.kg/?id=cti-news
 中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 
-
+娱乐,http://cdn.adultiptv.net/gay.m3u8
+娱乐,http://live.redtraffic.xyz/gay.m3u8
+娱乐,http://play.iptvxxx.net/gay.m3u8
+娱乐,https://live.adultiptv.net/gay.m3u8
 央视频道,#genre#
 
 CCTV13 新闻,http://192.168.100.1:50101/5000000011000031108/FifastbLive/index.m3u8$6.8M1080_百视通
