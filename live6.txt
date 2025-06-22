@@ -2,10 +2,13 @@
 中天新闻,http://192.168.100.1:5000/youtube/vr3XyVCR4T0
 中天新闻,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 娱乐,http://cdn.adultiptv.net/gay.m3u8
 娱乐,http://live.redtraffic.xyz/gay.m3u8
 娱乐,http://play.iptvxxx.net/gay.m3u8
 娱乐,https://live.adultiptv.net/gay.m3u8
+CCTV-13 新闻,http://192.168.100.1:35455/mgtv/608807423.m3u8
+CCTV-13 新闻,http://192.168.100.1:5000/youtube/lU5twqETH1A
 央视频道,#genre#
 CCTV-1 综合,http://192.168.100.1:35455/mgtv/608807420.m3u8
 CCTV-2 财经,http://192.168.100.1:35455/mgtv/631780532.m3u8
