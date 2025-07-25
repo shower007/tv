@@ -12,135 +12,191 @@ CCTV-13 新闻,http://192.168.100.1:35455/mgtv/608807423.m3u8
 CCTV-13 新闻,http://192.168.100.1:5000/youtube/lU5twqETH1A
 央视频道,#genre#
 CCTV-1 综合,http://192.168.100.1:35455/bst/cctv1hd@4000000.m3u8
+CCTV-1 综合,http://192.168.100.1:35455/gptv/G_CCTV-1-HQ.m3u8
 CCTV-1 综合,http://192.168.100.1:35455/mgtv/608807420.m3u8
 CCTV-2 财经,http://192.168.100.1:35455/bst/cctv2hd8m@8000000.m3u8
+CCTV-2 财经,http://192.168.100.1:35455/gptv/G_CCTV-2-HQ.m3u8
 CCTV-2 财经,http://192.168.100.1:35455/mgtv/631780532.m3u8
 CCTV-3 综艺,http://192.168.100.1:35455/bst/cctv3hd@4000000.m3u8
 CCTV-3 综艺,http://192.168.100.1:35455/bst/cctv3hdhai@4000000.m3u8
+CCTV-3 综艺,http://192.168.100.1:35455/gptv/G_CCTV-3-HQ.m3u8
 CCTV-3 综艺,http://192.168.100.1:35455/mgtv/624878271.m3u8
 CCTV-4 中文国际,http://192.168.100.1:35455/bst/cctv4hd4m@4000000.m3u8
+CCTV-4 中文国际,http://192.168.100.1:35455/gptv/G_CCTV-4-HQ.m3u8
 CCTV-4 中文国际,http://192.168.100.1:35455/mgtv/631780421.m3u8
 CCTV-5 体育,http://192.168.100.1:35455/bst/cctv5hd@4000000.m3u8
 CCTV-5 体育,http://192.168.100.1:35455/bst/cctv5hdhai@4000000.m3u8
+CCTV-5 体育,http://192.168.100.1:35455/gptv/G_CCTV-5-HQ.m3u8
 CCTV-5 体育,http://192.168.100.1:35455/mgtv/641886683.m3u8
 CCTV-5+ 体育赛事,http://192.168.100.1:35455/bst/cctv5phd@4000000.m3u8
+CCTV-5+ 体育赛事,http://192.168.100.1:35455/gptv/G_CCTV-5PLUS-HQ.m3u8
 CCTV-5+ 体育赛事,http://192.168.100.1:35455/mgtv/641886773.m3u8
 CCTV-6 电影,http://192.168.100.1:35455/bst/cctv6hd@4000000.m3u8
 CCTV-6 电影,http://192.168.100.1:35455/bst/cctv6@1300000.m3u8
+CCTV-6 电影,http://192.168.100.1:35455/gptv/G_CCTV-6-HQ.m3u8
 CCTV-6 电影,http://192.168.100.1:35455/mgtv/624878396.m3u8
 CCTV-7 国防军事,http://192.168.100.1:35455/bst/cctv7hd4m@4000000.m3u8
+CCTV-7 国防军事,http://192.168.100.1:35455/gptv/G_CCTV-7-HQ.m3u8
 CCTV-7 国防军事,http://192.168.100.1:35455/mgtv/673168121.m3u8
 CCTV-8 电视剧,http://192.168.100.1:35455/bst/cctv8hd@4000000.m3u8
-CCTV-8 电视剧,http://192.168.100.1:35455/bst/cctv8@1300000.m3u8
+CCTV-8 电视剧,http://192.168.100.1:35455/bst/cctv8hd@4000000.m3u8
+CCTV-8 电视剧,http://192.168.100.1:35455/gptv/G_CCTV-8-HQ.m3u8
 CCTV-8 电视剧,http://192.168.100.1:35455/mgtv/624878356.m3u8
 CCTV-9 纪录,http://192.168.100.1:35455/bst/cctv9hd4mc@4000000.m3u8
+CCTV-9 纪录,http://192.168.100.1:35455/gptv/G_CCTV-9-HQ.m3u8
 CCTV-9 纪录,http://192.168.100.1:35455/mgtv/673168140.m3u8
 CCTV-10 科教,http://192.168.100.1:35455/bst/cctv10hd@4000000.m3u8
+CCTV-10 科教,http://192.168.100.1:35455/gptv/G_CCTV-10-HQ.m3u8
 CCTV-10 科教,http://192.168.100.1:35455/mgtv/624878405.m3u8
 CCTV-11 戏曲,http://192.168.100.1:35455/bst/cctv11hd4m@4000000.m3u8
+CCTV-11 戏曲,http://192.168.100.1:35455/gptv/G_CCTV-11-HQ.m3u8
 CCTV-11 戏曲,http://192.168.100.1:35455/mgtv/667987558.m3u8
 CCTV-12 社会与法,http://192.168.100.1:35455/bst/cctv12hd4m@4000000.m3u8
+CCTV-12 社会与法,http://192.168.100.1:35455/bst/cctv12hd4m@4000000.m3u8
+CCTV-12 社会与法,http://192.168.100.1:35455/gptv/G_CCTV-12-HQ.m3u8
 CCTV-12 社会与法,http://192.168.100.1:35455/mgtv/673168185.m3u8
 CCTV-13 新闻,http://192.168.100.1:35455/bst/cctv13hd4m@4000000.m3u8
+CCTV-13 新闻,http://192.168.100.1:35455/gptv/G_CCTV-13-HQ.m3u8
 CCTV-13 新闻,http://192.168.100.1:35455/mgtv/608807423.m3u8
 CCTV-14 少儿,http://192.168.100.1:35455/bst/cctvsehd@4000000.m3u8
+CCTV-14 少儿,http://192.168.100.1:35455/gptv/G_CCTV-14-HQ.m3u8
 CCTV-14 少儿,http://192.168.100.1:35455/mgtv/624878440.m3u8
 CCTV-15 音乐,http://192.168.100.1:35455/bst/cctvyyhd4m@4000000.m3u8
+CCTV-15 音乐,http://192.168.100.1:35455/gptv/G_CCTV-15-HQ.m3u8
 CCTV-15 音乐,http://192.168.100.1:35455/mgtv/673168223.m3u8
 CCTV-16 奥林匹克,http://192.168.100.1:35455/bst/cctv16hd4m@4000000.m3u8
+CCTV-16 奥林匹克,http://192.168.100.1:35455/gptv/G_CCTV-16-HQ.m3u8
 CCTV-16 奥林匹克,http://192.168.100.1:35455/nptv/cctv16.m3u8
 CCTV-17 农业农村,http://192.168.100.1:35455/bst/cctv17hd4m@4000000.m3u8
+CCTV-17 农业农村,http://192.168.100.1:35455/gptv/G_CCTV-17-HQ.m3u8
 CCTV-17 农业农村,http://192.168.100.1:35455/mgtv/673168256.m3u8
 CCTV-4 中文国际 欧洲,http://192.168.100.1:35455/mgtv/608807419.m3u8
 CCTV-4 中文国际 美洲,http://192.168.100.1:35455/mgtv/608807416.m3u8
 CCTV-第一剧场,http://192.168.100.1:35455/nptv/dyjc.m3u8
 CCTV-风云剧场,http://192.168.100.1:35455/nptv/fyjc.m3u8
+CCTV-女性时尚,http://192.168.100.1:35455/bst/G_NVXINGSS.m3u8
+CCTV-女性时尚,http://192.168.100.1:35455/gptv/G_NVXINGSS.m3u8
 CCTV-怀旧剧场,http://192.168.100.1:35455/nptv/hjjc.m3u8
 卫视频道,#genre#
 湖南卫视,http://192.168.100.1:35455/bst/hnwshd@4000000.m3u8
+湖南卫视,http://192.168.100.1:35455/gptv/G_HUNAN-HQ.m3u8
 湖南卫视,http://192.168.100.1:35455/nptv/hunan.m3u8
 浙江卫视,http://192.168.100.1:35455/bst/zjwshd@4000000.m3u8
+浙江卫视,http://192.168.100.1:35455/gptv/G_ZHEJIANG-HQ.m3u8
 浙江卫视,http://192.168.100.1:35455/nptv/zhejiang.m3u8
 江苏卫视,http://192.168.100.1:35455/bst/jswshd@4000000.m3u8
+江苏卫视,http://192.168.100.1:35455/gptv/G_JIANGSU-HQ.m3u8
 江苏卫视,http://192.168.100.1:35455/mgtv/623899368.m3u8
 江苏卫视,http://192.168.100.1:35455/nptv/jiangsu.m3u8
 东方卫视,http://192.168.100.1:35455/bst/hddfws@4000000.m3u8
+东方卫视,http://192.168.100.1:35455/gptv/G_DONGFANG-HQ.m3u8
 东方卫视,http://192.168.100.1:35455/nptv/dongfang.m3u8
 东方卫视,http://192.168.100.1:35455/mgtv/651632648.m3u8
 北京卫视,http://192.168.100.1:35455/bst/bjwshd@4000000.m3u8
+北京卫视,http://192.168.100.1:35455/gptv/G_BEIJING-HQ.m3u8
 北京卫视,http://192.168.100.1:35455/nptv/beijing.m3u8
 广东卫视,http://192.168.100.1:35455/bst/gdwshd@4000000.m3u8
+广东卫视,http://192.168.100.1:35455/gptv/G_GUANGDONG-HQ.m3u8
 广东卫视,http://192.168.100.1:35455/nptv/guangdong.m3u8
 广东卫视,http://192.168.100.1:35455/mgtv/608831231.m3u8
 深圳卫视,http://192.168.100.1:35455/bst/szwshd@4000000.m3u8
+深圳卫视,http://192.168.100.1:35455/gptv/G_SHENZHEN-HQ.m3u8
 深圳卫视,http://192.168.100.1:35455/nptv/shenzheng.m3u8
 东南卫视,http://192.168.100.1:35455/bst/dnwshd@4000000.m3u8
+东南卫视,http://192.168.100.1:35455/gptv/G_DONGNAN-HQ.m3u8
 东南卫视,http://192.168.100.1:35455/nptv/dongnan.m3u8
 东南卫视,http://192.168.100.1:35455/mgtv/849116810.m3u8
 山东卫视,http://192.168.100.1:35455/bst/sdwshd@4000000.m3u8
+山东卫视,http://192.168.100.1:35455/gptv/G_SHANDONG-HQ.m3u8
 山东卫视,http://192.168.100.1:35455/nptv/shandong.m3u8
 安徽卫视,http://192.168.100.1:35455/bst/ahwshd@4000000.m3u8
+安徽卫视,http://192.168.100.1:35455/gptv/G_ANHUI-HQ.m3u8
 安徽卫视,http://192.168.100.1:35455/nptv/anhui.m3u8
 天津卫视,http://192.168.100.1:35455/bst/tjwshd@4000000.m3u8
+天津卫视,http://192.168.100.1:35455/gptv/G_TIANJIN-HQ.m3u8
 天津卫视,http://192.168.100.1:35455/nptv/tianjing.m3u8
 湖北卫视,http://192.168.100.1:35455/bst/hbwshd@4000000.m3u8
+湖北卫视,http://192.168.100.1:35455/gptv/G_HUBEI-HQ.m3u8
 湖北卫视,http://192.168.100.1:35455/mgtv/947472496.m3u8
 湖北卫视,http://192.168.100.1:35455/nptv/hubei.m3u8
 辽宁卫视,http://192.168.100.1:35455/bst/lnwshd@4000000.m3u8
+辽宁卫视,http://192.168.100.1:35455/gptv/G_LIAONING-HQ.m3u8
 辽宁卫视,http://192.168.100.1:35455/nptv/liaoning.m3u8
 江西卫视,http://192.168.100.1:35455/bst/jxwshd@4000000.m3u8
+江西卫视,http://192.168.100.1:35455/gptv/G_JIANGXI-HQ.m3u8
 江西卫视,http://192.168.100.1:35455/mgtv/783847495.m3u8
 江西卫视,http://192.168.100.1:35455/nptv/jiangxi.m3u8
 河北卫视,http://192.168.100.1:35455/bst/hbwshd4m@4000000.m3u8
+河北卫视,http://192.168.100.1:35455/gptv/G_HEBEI-HQ.m3u8
 河北卫视,http://192.168.100.1:35455/nptv/hebei.m3u8
 黑龙江卫视,http://192.168.100.1:35455/bst/hljwshd@4000000.m3u8
+黑龙江卫视,http://192.168.100.1:35455/gptv/G_HEILONGJIANG-HQ.m3u8
 黑龙江卫视,http://192.168.100.1:35455/nptv/heilongjiang.m3u8
 重庆卫视,http://192.168.100.1:35455/bst/cqwshd4m@4000000.m3u8
+重庆卫视,http://192.168.100.1:35455/gptv/G_CHONGQING-HQ.m3u8
 重庆卫视,http://192.168.100.1:35455/nptv/chongqing.m3u8
 贵州卫视,http://192.168.100.1:35455/bst/gzwshd4m@4000000.m3u8
+贵州卫视,http://192.168.100.1:35455/gptv/G_GUIZHOU-HQ.m3u8
 贵州卫视,http://192.168.100.1:35455/nptv/guizhou.m3u8
 吉林卫视,http://192.168.100.1:35455/bst/jlwshd4m@4000000.m3u8
+吉林卫视,http://192.168.100.1:35455/gptv/G_JILIN-HQ.m3u8
 吉林卫视,http://192.168.100.1:35455/nptv/jiling.m3u8
 吉林卫视,http://192.168.100.1:35455/mgtv/947472500.m3u8
-四川卫视,http://192.168.100.1:35455/bst/scwshd4m@4000000.m3u8
-四川卫视,http://192.168.100.1:35455/nptv/sichuan.m3u8
 海南卫视,http://192.168.100.1:35455/bst/hainwshd4m@4000000.m3u8
+海南卫视,http://192.168.100.1:35455/gptv/G_HAINAN-HQ.m3u8
 海南卫视,http://192.168.100.1:35455/nptv/hainan.m3u8
 海南卫视,http://192.168.100.1:35455/mgtv/947472502.m3u8
 河南卫视,http://192.168.100.1:35455/bst/henwshd4m@4000000.m3u8
+河南卫视,http://192.168.100.1:35455/gptv/G_HENAN-HQ.m3u8
 河南卫视,http://192.168.100.1:35455/nptv/henan.m3u8
 河南卫视,http://192.168.100.1:35455/mgtv/790187291.m3u8
 广西卫视,http://192.168.100.1:35455/bst/gxwshd4m@4000000.m3u8
+广西卫视,http://192.168.100.1:35455/gptv/G_GUANGXI-HQ.m3u8
 广西卫视,http://192.168.100.1:35455/nptv/guangxi.m3u8
-山西卫视,http://192.168.100.1:35455/bst/shanxiws@1300000.m3u8
 山西卫视,http://192.168.100.1:35455/nptv/shanxi.m3u8
+山西卫视,http://192.168.100.1:35455/bst/shanxiws@1300000.m3u8
 云南卫视,http://192.168.100.1:35455/bst/ynwshd4m@4000000.m3u8
+云南卫视,http://192.168.100.1:35455/gptv/G_YUNNAN-HQ.m3u8
 云南卫视,http://192.168.100.1:35455/nptv/yunnan.m3u8
+陕西卫视,http://192.168.100.1:35455/gptv/G_SHANXI-HQ.m3u8
+陕西卫视,http://192.168.100.1:35455/nptv/shanxiws.m3u8
 陕西卫视,http://192.168.100.1:35455/bst/sxws@1300000.m3u8
 陕西卫视,http://192.168.100.1:35455/mgtv/738910838.m3u8
-陕西卫视,http://192.168.100.1:35455/nptv/shanxiws.m3u8
 内蒙古卫视,http://192.168.100.1:35455/bst/nmgws@1300000.m3u8
+内蒙古卫视,http://192.168.100.1:35455/gptv/G_NEIMENGGU.m3u8
 内蒙古卫视,http://192.168.100.1:35455/nptv/neimenggu.m3u8
 甘肃卫视,http://192.168.100.1:35455/bst/gswshd4m@4000000.m3u8
+甘肃卫视,http://192.168.100.1:35455/gptv/G_GANSU-HQ.m3u8
 甘肃卫视,http://192.168.100.1:35455/nptv/gansu.m3u8
 宁夏卫视,http://192.168.100.1:35455/bst/nxws@1300000.m3u8
+宁夏卫视,http://192.168.100.1:35455/gptv/G_NINGXIA.m3u8
 宁夏卫视,http://192.168.100.1:35455/nptv/ningxia.m3u8
 青海卫视,http://192.168.100.1:35455/bst/qhws@1300000.m3u8
 青海卫视,http://192.168.100.1:35455/nptv/qinghai.m3u8
 青海卫视,http://192.168.100.1:35455/mgtv/947472506.m3u8
 新疆卫视,http://192.168.100.1:35455/bst/xjws@1300000.m3u8
+新疆卫视,http://192.168.100.1:35455/gptv/G_XINJIANG.m3u8
 新疆卫视,http://192.168.100.1:35455/nptv/xinjiang.m3u8
 西藏卫视,http://192.168.100.1:35455/bst/xzws@2500000.m3u8
+西藏卫视,http://192.168.100.1:35455/gptv/G_XIZANG.m3u8
 西藏卫视,http://192.168.100.1:35455/nptv/xizang.m3u8
 兵团卫视,http://192.168.100.1:35455/bst/btws@1300000.m3u8
+兵团卫视,http://192.168.100.1:35455/gptv/G_BINGTUAN.m3u8
+三沙卫视,http://192.168.100.1:35455/bst/ssws2d5m@2500000.m3u8
+三沙卫视,http://192.168.100.1:35455/gptv/G_SANSHA-HQ.m3u8
+安多卫视,http://192.168.100.1:35455/bst/adws2d5m@2500000.m3u8
+安多卫视,http://192.168.100.1:35455/gptv/G_ANDUO.m3u8
+康巴卫视,http://192.168.100.1:35455/gptv/G_KANGBA.m3u8
+农林卫视,http://192.168.100.1:35455/gptv/G_NONGLIN.m3u8
+延边卫视,http://192.168.100.1:35455/gptv/G_YANBIAN.m3u8
 海峡卫视,http://192.168.100.1:35455/mgtv/849119120.m3u8
 大湾区卫视,http://192.168.100.1:35455/mgtv/608917627.m3u8
-三沙卫视,http://192.168.100.1:35455/bst/ssws2d5m@2500000.m3u8
-安多卫视,http://192.168.100.1:35455/bst/adws2d5m@2500000.m3u8
 数字频道,#genre#
 CHC家庭影院,http://192.168.100.1:35455/mgtv/644368373.m3u8
 CHC动作电影,http://192.168.100.1:35455/mgtv/644368714.m3u8
 CHC影迷电影,http://192.168.100.1:35455/mgtv/952383261.m3u8
+北京冬奥纪实,http://192.168.100.1:35455/gptv/G_BEIJINGJS-HD.m3u8
+天元围棋,http://192.168.100.1:35455/gptv/G_TIANYUANWQ.m3u8
 新视觉,http://192.168.100.1:35455/bst/xsjhd@4000000.m3u8
 中国天气,http://192.168.100.1:35455/bst/zgqxhd4mc@4000000.m3u8
 欢笑剧场,http://192.168.100.1:35455/bst/hxjchd@4000000.m3u8
@@ -152,11 +208,13 @@ CHC影迷电影,http://192.168.100.1:35455/mgtv/952383261.m3u8
 全球大片,http://192.168.100.1:35455/bst/qqdpvcc4m@4000000.m3u8
 热门综艺,http://192.168.100.1:35455/bst/rmzyvcc4m@4000000.m3u8
 哈哈炫动,http://192.168.100.1:35455/bst/hhxdhd@4000000.m3u8
+哈哈炫动,http://192.168.100.1:35455/gptv/G_XUANDONG.m3u8
 金鹰纪实,http://192.168.100.1:35455/bst/jyjs8m@8000000.m3u8
 金鹰卡通,http://192.168.100.1:35455/bst/jykt@1300000.m3u8
+金鹰卡通,http://192.168.100.1:35455/gptv/G_JINYING.m3u8
 嘉佳卡通,http://192.168.100.1:35455/bst/jjkt@1300000.m3u8
 卡酷少儿,http://192.168.100.1:35455/bst/kkkt@1300000.m3u8
-卡酷少儿,http://192.168.100.1:35455/bst/kkkt2d5m@2500000.m3u8
+卡酷少儿,http://192.168.100.1:35455/gptv/G_KAKU.m3u8
 动漫秀场,http://192.168.100.1:35455/bst/dmxchd@4000000.m3u8
 宝宝动画,http://192.168.100.1:35455/bst/bbdhvcc4m@4000000.m3u8
 青春动漫,http://192.168.100.1:35455/bst/qcdmvcc4m@4000000.m3u8
@@ -171,6 +229,7 @@ CHC影迷电影,http://192.168.100.1:35455/mgtv/952383261.m3u8
 快乐垂钓,http://192.168.100.1:35455/bst/klcdhd4m@4000000.m3u8
 东方财经,http://192.168.100.1:35455/bst/dfcjhd4m@4000000.m3u8
 家庭理财,http://192.168.100.1:35455/bst/jtlcsd2d5mc@2500000.m3u8
+家庭理财,http://192.168.100.1:35455/gptv/G_JIATINGLC.m3u8
 财富天下,http://192.168.100.1:35455/bst/cftx@2500000.m3u8
 法治天地,http://192.168.100.1:35455/bst/fztd2d5m@2500000.m3u8
 看天下精选,http://192.168.100.1:35455/bst/ktxjx8m@8000000.m3u8
@@ -188,6 +247,7 @@ CHC影迷电影,http://192.168.100.1:35455/mgtv/952383261.m3u8
 最强综艺趴,http://192.168.100.1:35455/mgtv/629942228.m3u8
 嘉佳卡通,http://192.168.100.1:35455/mgtv/614952364.m3u8
 经典动画大集合,http://192.168.100.1:35455/mgtv/629942219.m3u8
+优漫卡通频道,http://192.168.100.1:35455/gptv/G_YOUMAN.m3u8
 优漫卡通频道,http://192.168.100.1:35455/mgtv/626064703.m3u8
 上海新闻综合,http://192.168.100.1:35455/mgtv/651632657.m3u8
 上海第一财经,http://192.168.100.1:35455/mgtv/608780988.dycj
@@ -217,15 +277,21 @@ CHC影迷电影,http://192.168.100.1:35455/mgtv/952383261.m3u8
 《长安的荔枝》主演作品集,http://192.168.100.1:35455/mgtv/625133682.m3u8
 体坛名栏汇,http://192.168.100.1:35455/mgtv/629943305.m3u8
 咪咕24小时体育台,http://192.168.100.1:35455/mgtv/654102378.m3u8
+CETV-1,http://192.168.100.1:35455/gptv/G_CETV-1-HQ.m3u8
 CETV-1,http://192.168.100.1:35455/nptv/cetv1.m3u8
 CETV-1,http://192.168.100.1:35455/mgtv/923287154.m3u8
+CETV-2,http://192.168.100.1:35455/gptv/G_CETV-2.m3u8
 CETV-2,http://192.168.100.1:35455/mgtv/923287211.m3u8
+CETV-3,http://192.168.100.1:35455/gptv/G_CETV-3.m3u8
+CETV-4,http://192.168.100.1:35455/gptv/G_CETV-4.m3u8
 CETV-4,http://192.168.100.1:35455/mgtv/923287339.m3u8
 超清频道,#genre#
-CCTV16-4K,http://192.168.100.1:35455/bst/cctv16hd4k@15000000.m3u8
+北京卫视4K,http://192.168.100.1:35455/gptv/G_BEIJING-4K.m3u8
 CCTV4K,http://192.168.100.1:35455/bst/cctv4k@15000000
+CCTV4K,http://192.168.100.1:35455/gptv/G_CCTV-4K-HD.m3u8
 CCTV4K,http://192.168.100.1:35455/nptv/cctv4k.m3u8
 CCTV8K,http://192.168.100.1:35455/nptv/cctv8k.m3u8
+CCTV16-4K,http://192.168.100.1:35455/bst/cctv16hd4k@15000000.m3u8
 视界4K,http://192.168.100.1:35455/bst/sjpd4k@15000000.m3u8
 电影4K,http://192.168.100.1:35455/bst/dypd4k@15000000.m3u8
 少儿4K,http://192.168.100.1:35455/bst/sepd4k@15000000.m3u8
