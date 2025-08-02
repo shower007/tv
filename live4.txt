@@ -1,5 +1,26 @@
 #genre#
 
+CCTV1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1753977057&token=efbe25b882a5c6d5c004d10709bd8607
+CCTV2,https://stream.iptv-search.com/main.php?id=CCTV2&t=1753977057&token=8cbf58f098fc5d1e1d4255b0afa1cd9e
+CCTV3,https://stream.iptv-search.com/main.php?id=CCTV3&t=1753977057&token=bd990127bd0c3f7e6607bd7dc10192e7
+CCTV4,https://stream.iptv-search.com/main.php?id=CCTV4&t=1753977057&token=d112bf0445ddebbd11eb86b05e76c31b
+CCTV5,https://stream.iptv-search.com/main.php?id=CCTV5&t=1753977057&token=58cc30fff0d372572fb99cda2b426f28
+CCTV5+,https://stream.iptv-search.com/main.php?id=CCTV5%2B&t=1753977057&token=6a27d8b6af74b51b357ff003ec6b0b55
+CCTV6,https://stream.iptv-search.com/main.php?id=CCTV6&t=1753977057&token=0626a9d32da4b8ab923f4521d7ecd73d
+CCTV7,https://stream.iptv-search.com/main.php?id=CCTV7&t=1753977057&token=da25b1224fbb3cbe9168e1c0812aaf82
+CCTV8,https://stream.iptv-search.com/main.php?id=CCTV8&t=1753977057&token=a0a4f8d03a41e2dba28c4320985492b3
+CCTV9,https://stream.iptv-search.com/main.php?id=CCTV9&t=1753977057&token=9b9f676e85730dfc729d863de24157f3
+CCTV10,https://stream.iptv-search.com/main.php?id=CCTV10&t=1753977057&token=fdad769120a0431e7546b3897ea72a51
+CCTV11,https://stream.iptv-search.com/main.php?id=CCTV11&t=1753977057&token=77021ab38f872a22765a8e13f348f646
+CCTV12,https://stream.iptv-search.com/main.php?id=CCTV12&t=1753977057&token=fcc468bca683eddad61442ccfbf78095
+CCTV13,https://stream.iptv-search.com/main.php?id=CCTV13&t=1753977057&token=90a3a7b2478097da6b5d675be754a4e6
+CCTV14,https://stream.iptv-search.com/main.php?id=CCTV14&t=1753977057&token=a6953565ee3fad3d66592117783d1470
+CCTV15,https://stream.iptv-search.com/main.php?id=CCTV15&t=1753977057&token=380989ebe046a42a4c386210d1ec2e2e
+CCTV16,https://stream.iptv-search.com/main.php?id=CCTV16&t=1753977057&token=b7ea776e316097c0329527a9262ad6d1
+CCTV17,https://stream.iptv-search.com/main.php?id=CCTV17&t=1753977057&token=0952427c550ff3623749315944db3e45
+CCTV4,https://stream.iptv-search.com/main.php?id=CCTV4%281080p%29&t=1753977057&token=90f4c5df55430bd8786cf1b057a34c32
+
+
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?icpid=88888888&servicetype=1
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?icpid=88888888&servicetype=1
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8?icpid=88888888&servicetype=1
