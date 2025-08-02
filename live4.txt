@@ -72,11 +72,11 @@ CCTV15,http://111.61.236.247:9081/hls/15/index.m3u8
 CCTV1,http://111.61.236.247:9081/hls/68/index.m3u8
 CCTV2,http://111.61.236.247:9081/hls/69/index.m3u8
 CCTV3,http://111.61.236.247:9081/hls/70/index.m3u8
-CCTV4http://111.61.236.247:9081/hls/71/index.m3u8
-CCTV5http://111.61.236.247:9081/hls/72/index.m3u8
-CCTV6http://111.61.236.247:9081/hls/73/index.m3u8
-CCTV7http://111.61.236.247:9081/hls/74/index.m3u8
-CCTV8http://111.61.236.247:9081/hls/75/index.m3u8
+CCTV4,http://111.61.236.247:9081/hls/71/index.m3u8
+CCTV5,http://111.61.236.247:9081/hls/72/index.m3u8
+CCTV6,http://111.61.236.247:9081/hls/73/index.m3u8
+CCTV7,http://111.61.236.247:9081/hls/74/index.m3u8
+CCTV8,http://111.61.236.247:9081/hls/75/index.m3u8
 CCTV5+,udp://239.3.3.68:10001
 霸州台,udp://239.3.3.122:10001
 霸州台,http://111.61.236.247:9081/hls/122/index.m3u8
