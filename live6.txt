@@ -10,7 +10,7 @@
 娱乐,https://live.adultiptv.net/gay.m3u8
 CCTV13,http://218.1.208.72:8885/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,https://tv.iill.top/migu/cctv13
-#genre#
+电视直播#genre#
 
 CCTV1,https://tv.iill.top/migu/cctv1
 CCTV2,https://tv.iill.top/migu/cctv2
