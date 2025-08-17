@@ -37,8 +37,8 @@ CCTV12,http://111.11.98.205:9900/hls/12/index.m3u8
 CCTV13,http://111.11.98.205:9900/hls/13/index.m3u8
 CCTV14,http://111.11.98.205:9900/hls/14/index.m3u8
 CCTV15,http://111.11.98.205:9900/hls/15/index.m3u8
-CCTV-17,http://111.11.98.205:9900/hls/17/index.m3u8
-CCTV-5+,http://111.11.98.205:9900/hls/18/index.m3u8
+CCTV17,http://111.11.98.205:9900/hls/17/index.m3u8
+CCTV5+,http://111.11.98.205:9900/hls/18/index.m3u8
 
 河北经济生活HD,http://111.11.98.205:9900/hls/19/index.m3u8
 河北卫视HD,http://111.11.98.205:9900/hls/20/index.m3u8
