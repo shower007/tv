@@ -506,14 +506,6 @@ CCTV5+,http://111.11.98.205:9900/hls/18/index.m3u8
 卡酷少儿,http://111.11.98.205:9900/hls/61/index.m3u8
 金鹰卡通,http://111.11.98.205:9900/hls/62/index.m3u8
 山东教育卫视,http://111.11.98.205:9900/hls/63/index.m3u8
-纪实人文HD,http://111.11.98.205:9900/hls/64/index.m3u8
-中国教育1,http://111.11.98.205:9900/hls/65/index.m3u8
-纪实科教HD,http://111.11.98.205:9900/hls/66/index.m3u8
-金鹰纪实HD,http://111.11.98.205:9900/hls/67/index.m3u8
-沧县电视,http://111.11.98.205:9900/hls/68/index.m3u8
-中国交通-河北,http://111.11.98.205:9900/hls/69/index.m3u8
-晴彩河北HD,http://111.11.98.205:9900/hls/71/index.m3u8
-河北三佳购物HD,http://111.11.98.205:9900/hls/72/index.m3u8
 
 
 BRTV北京卫视[超清HDR],http://vault.iamued.com:4022/rtp/239.3.1.118:8001
@@ -561,66 +553,7 @@ BRTV国际频道[超清],http://vault.iamued.com:4022/rtp/239.3.1.235:8000
 陕西卫视,http://vault.iamued.com:4022/rtp/239.3.1.41:8140
 青海卫视,http://vault.iamued.com:4022/rtp/239.3.1.44:8184
 内蒙古卫视,http://vault.iamued.com:4022/rtp/239.3.1.43:8176
-朝阳融媒[高清],http://vault.iamued.com:4022/rtp/239.3.1.163:8001
-通州融媒[高清],http://vault.iamued.com:4022/rtp/239.3.1.221:8001
-密云电视台[高清],http://vault.iamued.com:4022/rtp/239.3.1.154:8001
-房山电视台[高清],http://vault.iamued.com:4022/rtp/239.3.1.96:8001
-门头沟电视台[高清],http://vault.iamued.com:4022/rtp/239.3.1.59:8001
-延庆电视台,http://vault.iamued.com:4022/rtp/239.3.1.187:8001
-中国交通[高清],http://vault.iamued.com:4022/rtp/239.3.1.188:8001
-少儿动画[高清],http://vault.iamued.com:4022/rtp/239.3.1.199:9000
-动画[高清],http://vault.iamued.com:4022/rtp/239.3.1.80:4120
-热播剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.194:9020
-军旅剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.68:4120
-古装剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.69:4120
-城市剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.67:4120
-武侠剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.90:4120
-魅力时尚[高清],http://vault.iamued.com:4022/rtp/239.3.1.196:9012
-高网[高清],http://vault.iamued.com:4022/rtp/239.3.1.88:4120
 
-睛彩竞技[高清],http://vault.iamued.com:4022/rtp/239.3.1.125:8001
-睛彩篮球[高清],http://vault.iamued.com:4022/rtp/239.3.1.126:8001
-睛彩青少[高清],http://vault.iamued.com:4022/rtp/239.3.1.127:8001
-睛彩广场舞[高清],http://vault.iamued.com:4022/rtp/239.3.1.128:8001
-茶频道[高清],http://vault.iamued.com:4022/rtp/239.3.1.165:8001
-快乐垂钓[高清],http://vault.iamued.com:4022/rtp/239.3.1.164:8001
-解密[高清],http://vault.iamued.com:4022/rtp/239.3.1.75:4120
-军事[高清],http://vault.iamued.com:4022/rtp/239.3.1.76:4120
-国学[高清],http://vault.iamued.com:4022/rtp/239.3.1.77:4120
-墨宝[高清],http://vault.iamued.com:4022/rtp/239.3.1.83:4120
-好学生[高清],http://vault.iamued.com:4022/rtp/239.3.1.81:4120
-戏曲[高清],http://vault.iamued.com:4022/rtp/239.3.1.78:4120
-早教[高清],http://vault.iamued.com:4022/rtp/239.3.1.79:4120
-武术[高清],http://vault.iamued.com:4022/rtp/239.3.1.87:4120
-爱生活[高清],http://vault.iamued.com:4022/rtp/239.3.1.86:4120
-美人[高清],http://vault.iamued.com:4022/rtp/239.3.1.73:4120
-美妆[高清],http://vault.iamued.com:4022/rtp/239.3.1.72:4120
-足球[高清],http://vault.iamued.com:4022/rtp/239.3.1.89:4120
-鉴赏[高清],http://vault.iamued.com:4022/rtp/239.3.1.82:4120
-音乐现场[高清],http://vault.iamued.com:4022/rtp/239.3.1.70:4120
-CETV1[高清],http://vault.iamued.com:4022/rtp/239.3.1.57:8152
-CETV2,http://vault.iamued.com:4022/rtp/239.3.1.54:4120
-CETV4,http://vault.iamued.com:4022/rtp/239.3.1.56:4120
-金鹰卡通,http://vault.iamued.com:4022/rtp/239.3.1.51:9252
-嘉佳卡通,http://vault.iamued.com:4022/rtp/239.3.1.147:9268
-山东教育,http://vault.iamued.com:4022/rtp/239.3.1.52:4120
-财富天下,http://vault.iamued.com:4022/rtp/239.3.1.53:9136
-4K超清[超清HDR],http://vault.iamued.com:4022/rtp/239.3.1.249:8001
-爱上4K[超清],http://vault.iamued.com:4022/rtp/239.3.1.236:2000
-淘电影[高清],http://vault.iamued.com:4022/rtp/239.3.1.250:8001
-星影[高清],http://vault.iamued.com:4022/rtp/239.3.1.94:4120
-动作影院[高清],http://vault.iamued.com:4022/rtp/239.3.1.92:4120
-光影[高清],http://vault.iamued.com:4022/rtp/239.3.1.84:4120
-喜剧影院[高清],http://vault.iamued.com:4022/rtp/239.3.1.91:4120
-家庭影院[高清],http://vault.iamued.com:4022/rtp/239.3.1.93:4120
-精选[高清],http://vault.iamued.com:4022/rtp/239.3.1.74:4120
-经典电影[高清],http://vault.iamued.com:4022/rtp/239.3.1.195:9024
-金鹰纪实[高清],http://vault.iamued.com:4022/rtp/239.3.1.58:8156
-地理[高清],http://vault.iamued.com:4022/rtp/239.3.1.71:4120
-淘剧场[高清],http://vault.iamued.com:4022/rtp/239.3.1.95:8001
-淘娱乐[高清],http://vault.iamued.com:4022/rtp/239.3.1.100:8001
-淘Baby[高清],http://vault.iamued.com:4022/rtp/239.3.1.238:8001
-萌宠TV[高清],http://vault.iamued.com:4022/rtp/239.3.1.102:8001
 
 
 
