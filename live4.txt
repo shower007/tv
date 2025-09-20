@@ -7,7 +7,7 @@ CCTV3,webview://https://tv.cctv.com/live/cctv3/
 CCTV4,webview://https://tv.cctv.com/live/cctv4/
 CCTV5,webview://https://tv.cctv.com/live/cctv5/
 CCTV5+,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV6,webview://https://tv.cctv.com/live/cctv6/$cctv
+CCTV6,webview://https://tv.cctv.com/live/cctv6/
 CCTV7,webview://https://tv.cctv.com/live/cctv7/
 CCTV8,webview://https://tv.cctv.com/live/cctv8/
 CCTV9,webview://https://tv.cctv.com/live/cctvjilu/
