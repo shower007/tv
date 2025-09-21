@@ -1,3 +1,4 @@
+#genre#
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV2,webview://https://tv.cctv.com/live/cctv2/
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
