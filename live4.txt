@@ -1,6 +1,3 @@
-#genre#
-
-
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV2,webview://https://tv.cctv.com/live/cctv2/
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
@@ -36,15 +33,24 @@ CCTV14,webview://https://yangshipin.cn/tv/home?pid=600001809
 CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-4K,webview://https://yangshipin.cn/tv/home?pid=600002264
+CCTV-8k,webview://https://yangshipin.cn/tv/home?pid=600156816
+CCTV教育,webview://https://yangshipin.cn/tv/home?pid=600171827
 
 
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+东方卫视,webview://https://live.kankanews.com/huikan?id=1
+上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
+第一财经,webview://https://live.kankanews.com/huikan?id=5
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
-东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+江苏卫视,webview://https://live.jstv.com/
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+浙江卫视,webview://https://www.cztv.com/liveTV/101
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
@@ -69,7 +75,6 @@ CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-
 
 
 
