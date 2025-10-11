@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://fy.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="电视直播",CCTV-13 新闻
 https://migu.188766.xyz/?migutoken=1522badcf989ea132fed5b9ce090235f&id=CCTV13&type=yy
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="电视直播",CCTV-1 综合
@@ -146,3 +147,4 @@ https://migu.188766.xyz/?migutoken=f67d0a2dbac175c9f07007ece75f857a&id=CETV4&typ
 https://migu.188766.xyz/?migutoken=62bdc0fbd4587ed99d8b0d030980dabb&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
 #EXTINF:-1 tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/479/202210281603_5102115888_H32_1080.webp" group-title="数字频道",钱塘江
 https://migu.188766.xyz/?migutoken=8ea5a12b4a9ea71fca3aae0266ba8438&id=%E9%92%B1%E5%A1%98%E6%B1%9F&type=yy
+
