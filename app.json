@@ -1,11 +1,11 @@
 {
 "urls":[
 {"url":"https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"aTV"},
-{"url":"https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/fan.json","name":"samisold_饭太硬"},
-{"url":"https://raw.githubusercontent.com/samisold/TvboxJarMod/main/conf/feimao.json","name":"samisold_肥猫"},
+{"url":"https://www.饭太硬.com/tv","name":"饭太硬"},
+{"url":"https://肥猫.com/","name":"肥猫"},
 {"url":"https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"guot55_月光宝盒"},
 {"url":"https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
-{"url":"https://raw.githubusercontent.com/guxiangbin/tvbox2/main/道长接口.txt","name":"guxiangbin-道长接口"},
+{"url":"https://tvbox.xn--4kq62z5rby2qupq9ub.top/","name":"道长接口"},
 {  "name": "SVIP📚在线",  "url": "https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json" },
 {  "name": "自猫",  "url": "https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json"  },
     {
