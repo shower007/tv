@@ -1,42 +1,17 @@
 {
 "urls":[
-{"url":"https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"aTV"},
+{"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"aTV"},
 {"url":"https://www.饭太硬.com/tv","name":"饭太硬"},
 {"url":"https://肥猫.com/","name":"肥猫"},
-{"url":"https://raw.githubusercontent.com/guot55/yg/main/ygbox.json","name":"guot55_月光宝盒"},
-{"url":"https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
-{"url":"https://tvbox.xn--4kq62z5rby2qupq9ub.top/","name":"道长接口"},
-{  "name": "SVIP📚在线",  "url": "https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json" },
+{"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
+{  "name": "SVIP📚在线",  "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json" },
 {  "name": "自猫",  "url": "https://raw.githubusercontent.com/chinawiz/tvbox/main/adult-1.json"  },
 {  "name": "讴哥",  "url": "https://xn--anna-wn6lw489o.v.nxog.top/m" } ,   
     {
-      "name": "备用📚在线",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
       "name": "VIP📚在线",
-      "url": "https://jiekou.netlify.app/svip.json"
+      "url": "https://gh.xxooo.cf/https://jiekou.netlify.app/svip.json"
     },
-{
-            "url": "http://116.196.116.76/stv",
-            "name": "星河"
-        },
-        {
-            "url": "http://116.196.116.76/tv",
-            "name": "星河4K"
-        },
-        {
-            "url": "http://tv.999888987.xyz",
-            "name": "王二小放牛娃"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "饭太硬"
-        },
-        {
-            "url": "http://肥猫.com/",
-            "name": "肥猫"
-        },
+
         {
             "url": "http://ok321.top/tv",
             "name": "OK吊炸天"
@@ -78,19 +53,19 @@
             "name": "PG备用"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
             "name": "南风"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高天流云"
         },
         {
