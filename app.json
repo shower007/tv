@@ -47,7 +47,7 @@
 
     { "url": "https://play.iptv365.org/少儿频道/api.json", "name": "少儿频道" },
 
-    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" }]
+    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" },
 
     { "url": "https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
 
