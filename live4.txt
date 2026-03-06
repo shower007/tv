@@ -186,33 +186,11 @@ CCTV14,http://121.225.49.164:8888/rtp/239.49.8.136:6000
 湖北卫视,http://175.8.29.126:9999/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 吉林卫视,http://175.8.29.126:9999/tsfile/live/0120_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 河北卫视,http://175.8.29.126:9999/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-快乐垂钓,http://175.8.29.126:9999/tsfile/live/1015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-茶频道,http://175.8.29.126:9999/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-欢笑剧场,http://175.8.29.126:9999/tsfile/live/1018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-旅游卫视,http://175.8.29.126:9999/tsfile/live/1019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-优优宝贝,http://175.8.29.126:9999/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 西藏卫视,http://175.8.29.126:9999/tsfile/live/1028_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-先锋兵羽,http://175.8.29.126:9999/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 四川卫视,http://175.8.29.126:9999/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 重庆卫视,http://175.8.29.126:9999/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 云南卫视,http://175.8.29.126:9999/tsfile/live/0119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-新动漫,http://175.8.29.126:9999/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-广西卫视,http://175.8.29.126:9999/tsfile/live/1031_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-靖港测试,http://175.8.29.126:9999/tsfile/live/41273_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-望城台,http://175.8.29.126:9999/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南卫视,http://175.8.29.126:9999/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南都市,http://175.8.29.126:9999/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南电视剧,http://175.8.29.126:9999/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南电影,http://175.8.29.126:9999/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南娱乐,http://175.8.29.126:9999/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南经视,http://175.8.29.126:9999/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南公共,http://175.8.29.126:9999/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-金鹰纪实,http://175.8.29.126:9999/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南教育,http://175.8.29.126:9999/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-长沙新闻,http://175.8.29.126:9999/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-长沙**,http://175.8.29.126:9999/tsfile/live/0139_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-湖南国际,http://175.8.29.126:9999/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-金鹰卡通,http://175.8.29.126:9999/tsfile/live/1008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 CCTV1,http://vault.iamued.com:4022/rtp/239.3.1.129:8008
