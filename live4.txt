@@ -35,6 +35,55 @@ CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 
+CCTV1,http://iptv.zhangliang.cc:8012/udp/225.0.4.74:7980
+CCTV2,http://iptv.zhangliang.cc:8012/udp/225.0.4.132:7980
+CCTV3,http://iptv.zhangliang.cc:8012/udp/225.0.4.142:7980
+CCTV4,http://iptv.zhangliang.cc:8012/udp/225.0.4.176:7980
+CCTV5,http://iptv.zhangliang.cc:8012/udp/225.0.4.143:7980
+CCTV5+,http://iptv.zhangliang.cc:8012/udp/225.0.4.73:7980
+CCTV6,http://iptv.zhangliang.cc:8012/udp/225.0.4.144:7980
+CCTV7,http://iptv.zhangliang.cc:8012/udp/225.0.4.127:7980
+CCTV8,http://iptv.zhangliang.cc:8012/udp/225.0.4.137:7980
+CCTV9,http://iptv.zhangliang.cc:8012/udp/225.0.4.131:7980
+CCTV10,http://iptv.zhangliang.cc:8012/udp/225.0.4.130:7980
+CCTV11,http://iptv.zhangliang.cc:8012/udp/225.0.4.218:7980
+CCTV12,http://iptv.zhangliang.cc:8012/udp/225.0.4.129:7980
+CCTV13,http://iptv.zhangliang.cc:8012/udp/225.0.4.219:7980
+CCTV14,http://iptv.zhangliang.cc:8012/udp/225.0.4.128:7980
+CCTV15,http://iptv.zhangliang.cc:8012/udp/225.0.4.220:7980
+江苏卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.79:7980
+浙江卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.81:7980
+东方卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.80:7980
+深圳卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.202:7980
+北京卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.78:7980
+山东卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.199:7980
+天津卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.82:7980
+贵州卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.175:7980
+四川卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.204:7980
+黑龙江卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.201:7980
+安徽卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.133:7980
+江西卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.203:7980
+湖北卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.217:7980
+东南卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.200:7980
+辽宁卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.98:7980
+湖南卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.75:7980
+广东卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.84:7980
+河北卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.174:7980
+甘肃卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.181:7980
+新疆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.60:7980
+西藏卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.67:7980
+重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.187:7980
+北京卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.122:7980
+东方卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.103:7980
+广东卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.102:7980
+深圳卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.101:7980
+湖南卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.107:7980
+山东卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.106:7980
+四川卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.108:7980
+浙江卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.105:7980
+江苏卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.104:7980
+爱上4K,http://iptv.zhangliang.cc:8012/udp/225.0.4.226:7980
+
 
 
 
