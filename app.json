@@ -1,31 +1,8 @@
 {
 "urls":[
 {"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json","name":"aTV"},
-{"url":"https://肥猫.com/","name":"肥猫"},
 {"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/HuShanquan3/MusicTvBoxMobile/main/m.json","name":"蕉影视TV"},
-{"url": "https://play.iptv365.org/饭太硬/api.json", "name": "饭太硬"},
-{"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/AlanTse1314/TVBox-18/refs/heads/main/vip.json ", "name": "VIP"},
-    { "url": "https://play.iptv365.org/小米/api.json", "name": "小米" },
-
-    { "url": "https://play.iptv365.org/肥猫/api.json", "name": "肥猫" },
-
-    { "url": "https://play.iptv365.org/菜妮丝/api.json", "name": "菜妮丝" },
-
-    { "url": "https://play.iptv365.org/小虎斑/api.json", "name": "小虎斑" },
-
-    { "url": "https://play.iptv365.org/欧歌/api.json", "name": "欧歌" },
-
-    { "url": "https://play.iptv365.org/潇洒/api.json", "name": "潇洒" },
-
-    { "url": "https://play.iptv365.org/天微/api.json", "name": "天微" },
-
-    { "url": "https://play.iptv365.org/天天开心/api.json", "name": "天天开心" },
-
-    { "url": "https://play.iptv365.org/香雅情/api.json", "name": "香雅情" },
-
-    { "url": "https://play.iptv365.org/南风/api.json", "name": "南风" },
-
-    { "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零" },
-
-    { "url": "https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" }     
+{"url":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/fty.json", "name": "饭太硬"},
+{"url":"https://raw.githubusercontent.com/qist/tvbox/master/jsm.json", "name": "VIP"},
+{ "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json", "name": "潇洒" }    
 ]}
