@@ -81,162 +81,119 @@ http://cdn.adultiptv.net/gay.m3u8
 http://cdn.adultiptv.net/asian.m3u8
 
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="直播",CCTV-1
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="CCTV",CCTV-1
 http://192.168.100.1:3000/cctv1/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="直播",CCTV-2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="CCTV",CCTV-2
 http://192.168.100.1:3000/cctv2/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3" group-title="直播",CCTV-3
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3" group-title="CCTV",CCTV-3
 http://192.168.100.1:3000/cctv3/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="直播",CCTV-4
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="CCTV",CCTV-4
 http://192.168.100.1:3000/cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5" group-title="直播",CCTV-5
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5" group-title="CCTV",CCTV-5
 http://192.168.100.1:3000/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV-5+" group-title="直播",CCTV-5+
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV-5+" group-title="CCTV",CCTV-5+
 http://192.168.100.1:3000/cctv5p/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="直播",CCTV-6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="CCTV",CCTV-6
 http://192.168.100.1:3000/cctv6/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="直播",CCTV-7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="CCTV",CCTV-7
 http://192.168.100.1:3000/cctv7/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV-8" group-title="直播",CCTV-8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV-8" group-title="CCTV",CCTV-8
 http://192.168.100.1:3000/cctv8/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV-9" group-title="直播",CCTV-9
+#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV-9" group-title="CCTV",CCTV-9
 http://192.168.100.1:3000/cctv9/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV-10" group-title="直播",CCTV-10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV-10" group-title="CCTV",CCTV-10
 http://192.168.100.1:3000/cctv10/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11" group-title="直播",CCTV-11
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11" group-title="CCTV",CCTV-11
 http://192.168.100.1:3000/cctv11/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12" group-title="直播",CCTV-12
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12" group-title="CCTV",CCTV-12
 http://192.168.100.1:3000/cctv12/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="直播",CCTV-13
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="CCTV",CCTV-13
 http://192.168.100.1:3000/cctv13/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" group-title="直播",CCTV-14
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" group-title="CCTV",CCTV-14
 http://192.168.100.1:3000/cctv14/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15" group-title="直播",CCTV-15
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15" group-title="CCTV",CCTV-15
 http://192.168.100.1:3000/cctv15/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV-16" group-title="直播",CCTV-16
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV-16" group-title="CCTV",CCTV-16
 http://192.168.100.1:3000/cctv16/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV-17" group-title="直播",CCTV-17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV-17" group-title="CCTV",CCTV-17
 http://192.168.100.1:3000/cctv17/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsws" tvg-name="江苏卫视" group-title="直播",江苏卫视
-http://192.168.100.1:3000/js_jsws/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsws4k" tvg-name="江苏卫视(4K)" group-title="直播",江苏卫视(4K)
-http://192.168.100.1:3000/js_jsws4k/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jscs" tvg-name="江苏城市" group-title="直播",江苏城市
-http://192.168.100.1:3000/js_jscs/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jszy" tvg-name="江苏综艺" group-title="直播",江苏综艺
-http://192.168.100.1:3000/js_jszy/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsys" tvg-name="江苏影视" group-title="直播",江苏影视
-http://192.168.100.1:3000/js_jsys/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsxw" tvg-name="江苏新闻" group-title="直播",江苏新闻
-http://192.168.100.1:3000/js_jsxw/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsjy" tvg-name="江苏教育" group-title="直播",江苏教育
+#EXTINF:-1 tvg-id="js_jsjy" tvg-name="江苏教育" group-title="江苏频道",江苏教育
 http://192.168.100.1:3000/js_jsjy/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsxx" tvg-name="江苏体育休闲" group-title="直播",江苏体育休闲
-http://192.168.100.1:3000/js_jsxx/playlist.m3u8
-#EXTINF:-1 tvg-id="js_ymkt" tvg-name="优漫卡通" group-title="直播",优漫卡通
-http://192.168.100.1:3000/js_ymkt/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsgj" tvg-name="江苏国际" group-title="直播",江苏国际
+#EXTINF:-1 tvg-id="js_jsxw" tvg-name="江苏新闻" group-title="江苏频道",江苏新闻
+http://192.168.100.1:3000/js_jsxw/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jsws4k" tvg-name="江苏卫视(4K)" group-title="江苏频道",江苏卫视(4K)
+http://192.168.100.1:3000/js_jsws4k/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jszy" tvg-name="江苏综艺" group-title="江苏频道",江苏综艺
+http://192.168.100.1:3000/js_jszy/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jsgj" tvg-name="江苏国际" group-title="江苏频道",江苏国际
 http://192.168.100.1:3000/js_jsgj/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_zhejiangweishi" tvg-name="浙江卫视" group-title="直播",浙江卫视
-http://192.168.100.1:3000/zj_zhejiangweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_qianjiangdushi" tvg-name="钱江都市" group-title="直播",钱江都市
-http://192.168.100.1:3000/zj_qianjiangdushi/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_jiaokeyingshi" tvg-name="教科影视" group-title="直播",教科影视
+#EXTINF:-1 tvg-id="js_jsws" tvg-name="江苏卫视" group-title="江苏频道",江苏卫视
+http://192.168.100.1:3000/js_jsws/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jsys" tvg-name="江苏影视" group-title="江苏频道",江苏影视
+http://192.168.100.1:3000/js_jsys/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jsxx" tvg-name="江苏体育休闲" group-title="江苏频道",江苏体育休闲
+http://192.168.100.1:3000/js_jsxx/playlist.m3u8
+#EXTINF:-1 tvg-id="js_jscs" tvg-name="江苏城市" group-title="江苏频道",江苏城市
+http://192.168.100.1:3000/js_jscs/playlist.m3u8
+#EXTINF:-1 tvg-id="js_ymkt" tvg-name="优漫卡通" group-title="江苏频道",优漫卡通
+http://192.168.100.1:3000/js_ymkt/playlist.m3u8
+#EXTINF:-1 tvg-id="zj_jiaokeyingshi" tvg-name="教科影视" group-title="浙江频道",教科影视
 http://192.168.100.1:3000/zj_jiaokeyingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_minshengxiuxian" tvg-name="民生休闲" group-title="直播",民生休闲
-http://192.168.100.1:3000/zj_minshengxiuxian/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_xinwen" tvg-name="新闻" group-title="直播",新闻
-http://192.168.100.1:3000/zj_xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_shaoerpindao" tvg-name="少儿频道" group-title="直播",少儿频道
+#EXTINF:-1 tvg-id="zj_shaoerpindao" tvg-name="少儿频道" group-title="浙江频道",少儿频道
 http://192.168.100.1:3000/zj_shaoerpindao/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_guoji" tvg-name="浙江国际" group-title="直播",浙江国际
-http://192.168.100.1:3000/zj_guoji/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_zhijiangjilu" tvg-name="之江纪录" group-title="直播",之江纪录
+#EXTINF:-1 tvg-id="zj_xinwen" tvg-name="新闻" group-title="浙江频道",新闻
+http://192.168.100.1:3000/zj_xinwen/playlist.m3u8
+#EXTINF:-1 tvg-id="zj_zhijiangjilu" tvg-name="之江纪录" group-title="浙江频道",之江纪录
 http://192.168.100.1:3000/zj_zhijiangjilu/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_sdtv" tvg-name="山东卫视" group-title="直播",山东卫视
-http://192.168.100.1:3000/sd_sdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_qlpd" tvg-name="齐鲁频道" group-title="直播",齐鲁频道
-http://192.168.100.1:3000/sd_qlpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_typd" tvg-name="体育频道" group-title="直播",体育频道
-http://192.168.100.1:3000/sd_typd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_shpd" tvg-name="生活频道" group-title="直播",生活频道
+#EXTINF:-1 tvg-id="zj_zhejiangweishi" tvg-name="浙江卫视" group-title="浙江频道",浙江卫视
+http://192.168.100.1:3000/zj_zhejiangweishi/playlist.m3u8
+#EXTINF:-1 tvg-id="zj_minshengxiuxian" tvg-name="民生休闲" group-title="浙江频道",民生休闲
+http://192.168.100.1:3000/zj_minshengxiuxian/playlist.m3u8
+#EXTINF:-1 tvg-id="zj_guoji" tvg-name="浙江国际" group-title="浙江频道",浙江国际
+http://192.168.100.1:3000/zj_guoji/playlist.m3u8
+#EXTINF:-1 tvg-id="zj_qianjiangdushi" tvg-name="钱江都市" group-title="浙江频道",钱江都市
+http://192.168.100.1:3000/zj_qianjiangdushi/playlist.m3u8
+#EXTINF:-1 tvg-id="sd_shpd" tvg-name="生活频道" group-title="山东频道",生活频道
 http://192.168.100.1:3000/sd_shpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_zypd" tvg-name="综艺频道" group-title="直播",综艺频道
+#EXTINF:-1 tvg-id="sd_zypd" tvg-name="综艺频道" group-title="山东频道",综艺频道
 http://192.168.100.1:3000/sd_zypd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_nkpd" tvg-name="农科频道" group-title="直播",农科频道
-http://192.168.100.1:3000/sd_nkpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_yspd" tvg-name="文旅频道" group-title="直播",文旅频道
+#EXTINF:-1 tvg-id="sd_sdtv" tvg-name="山东卫视" group-title="山东频道",山东卫视
+http://192.168.100.1:3000/sd_sdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="sd_yspd" tvg-name="文旅频道" group-title="山东频道",文旅频道
 http://192.168.100.1:3000/sd_yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_sepd" tvg-name="少儿频道" group-title="直播",少儿频道
+#EXTINF:-1 tvg-id="sd_nkpd" tvg-name="农科频道" group-title="山东频道",农科频道
+http://192.168.100.1:3000/sd_nkpd/playlist.m3u8
+#EXTINF:-1 tvg-id="sd_typd" tvg-name="体育频道" group-title="山东频道",体育频道
+http://192.168.100.1:3000/sd_typd/playlist.m3u8
+#EXTINF:-1 tvg-id="sd_sepd" tvg-name="少儿频道" group-title="山东频道",少儿频道
 http://192.168.100.1:3000/sd_sepd/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_hebeiweishi" tvg-name="河北卫视" group-title="直播",河北卫视
-http://192.168.100.1:3000/hb_hebeiweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_jingjishenghuo" tvg-name="经济生活" group-title="直播",经济生活
-http://192.168.100.1:3000/hb_jingjishenghuo/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_hebeidushi" tvg-name="河北都市" group-title="直播",河北都市
-http://192.168.100.1:3000/hb_hebeidushi/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_wenlvtiyu" tvg-name="文旅体育" group-title="直播",文旅体育
-http://192.168.100.1:3000/hb_wenlvtiyu/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_shaoerkejiao" tvg-name="少儿科教" group-title="直播",少儿科教
-http://192.168.100.1:3000/hb_shaoerkejiao/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_sannongpindao" tvg-name="三农频道" group-title="直播",三农频道
-http://192.168.100.1:3000/hb_sannongpindao/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongweishi" tvg-name="广东卫视" group-title="直播",广东卫视
-http://192.168.100.1:3000/gd_guangdongweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongzhujiang" tvg-name="广东珠江" group-title="直播",广东珠江
-http://192.168.100.1:3000/gd_guangdongzhujiang/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongxinwen" tvg-name="广东新闻" group-title="直播",广东新闻
-http://192.168.100.1:3000/gd_guangdongxinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongminsheng" tvg-name="广东民生" group-title="直播",广东民生
-http://192.168.100.1:3000/gd_guangdongminsheng/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongtiyu" tvg-name="广东体育" group-title="直播",广东体育
-http://192.168.100.1:3000/gd_guangdongtiyu/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_dawanquweishi" tvg-name="大湾区卫视" group-title="直播",大湾区卫视
-http://192.168.100.1:3000/gd_dawanquweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_dawanquweishi_haiwai" tvg-name="大湾区卫视（海外版）" group-title="直播",大湾区卫视（海外版）
-http://192.168.100.1:3000/gd_dawanquweishi_haiwai/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongyingshi" tvg-name="广东影视" group-title="直播",广东影视
-http://192.168.100.1:3000/gd_guangdongyingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_4kchaogaoqing" tvg-name="4K超高清" group-title="直播",4K超高清
-http://192.168.100.1:3000/gd_4kchaogaoqing/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongshaoer" tvg-name="广东少儿" group-title="直播",广东少儿
-http://192.168.100.1:3000/gd_guangdongshaoer/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_jiajiakatong" tvg-name="嘉佳卡通" group-title="直播",嘉佳卡通
-http://192.168.100.1:3000/gd_jiajiakatong/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_lingnanxiqu" tvg-name="岭南戏曲" group-title="直播",岭南戏曲
-http://192.168.100.1:3000/gd_lingnanxiqu/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_guangdongyidong" tvg-name="广东移动" group-title="直播",广东移动
-http://192.168.100.1:3000/gd_guangdongyidong/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_jingdianju" tvg-name="广东台经典剧" group-title="直播",广东台经典剧
-http://192.168.100.1:3000/gd_jingdianju/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_jilupian" tvg-name="纪录片" group-title="直播",纪录片
-http://192.168.100.1:3000/gd_jilupian/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_jiankang" tvg-name="健康" group-title="直播",健康
-http://192.168.100.1:3000/gd_jiankang/playlist.m3u8
-#EXTINF:-1 tvg-id="gd_grtnshenghuo" tvg-name="GRTN生活频道" group-title="直播",GRTN生活频道
-http://192.168.100.1:3000/gd_grtnshenghuo/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_jykt" tvg-name="金鹰卡通" group-title="直播",金鹰卡通
-http://192.168.100.1:3000/mg_jykt/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hnjs" tvg-name="湖南经视" group-title="直播",湖南经视
-http://192.168.100.1:3000/mg_hnjs/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hnyl" tvg-name="湖南娱乐" group-title="直播",湖南娱乐
-http://192.168.100.1:3000/mg_hnyl/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hndy" tvg-name="湖南电影" group-title="直播",湖南电影
-http://192.168.100.1:3000/mg_hndy/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hnds" tvg-name="湖南都市" group-title="直播",湖南都市
-http://192.168.100.1:3000/mg_hnds/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hndsj" tvg-name="湖南电视剧" group-title="直播",湖南电视剧
-http://192.168.100.1:3000/mg_hndsj/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_jyjs" tvg-name="金鹰纪实" group-title="直播",金鹰纪实
-http://192.168.100.1:3000/mg_jyjs/playlist.m3u8
-#EXTINF:-1 tvg-id="mg_hnaw" tvg-name="湖南爱晚" group-title="直播",湖南爱晚
-http://192.168.100.1:3000/mg_hnaw/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_dongfang" tvg-name="东方卫视" group-title="直播",东方卫视
-http://192.168.100.1:3000/sh_dongfang/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_xinwen" tvg-name="新闻综合" group-title="直播",新闻综合
-http://192.168.100.1:3000/sh_xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_diyicaijing" tvg-name="第一财经" group-title="直播",第一财经
-http://192.168.100.1:3000/sh_diyicaijing/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_wuxingtiyu" tvg-name="五星体育" group-title="直播",五星体育
+#EXTINF:-1 tvg-id="sd_qlpd" tvg-name="齐鲁频道" group-title="山东频道",齐鲁频道
+http://192.168.100.1:3000/sd_qlpd/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_wuxingtiyu" tvg-name="五星体育" group-title="上海",五星体育
 http://192.168.100.1:3000/sh_wuxingtiyu/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_hahaxuandong" tvg-name="哈哈炫动" group-title="上海",哈哈炫动
+http://192.168.100.1:3000/sh_hahaxuandong/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_xinjishi" tvg-name="新纪实" group-title="上海",新纪实
+http://192.168.100.1:3000/sh_xinjishi/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_diyicaijing" tvg-name="第一财经" group-title="上海",第一财经
+http://192.168.100.1:3000/sh_diyicaijing/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_xinwen" tvg-name="新闻综合" group-title="上海",新闻综合
+http://192.168.100.1:3000/sh_xinwen/playlist.m3u8
+#EXTINF:-1 tvg-id="sh_dongfang" tvg-name="东方卫视" group-title="上海",东方卫视
+http://192.168.100.1:3000/sh_dongfang/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_shaoerkejiao" tvg-name="少儿科教" group-title="河北频道",少儿科教
+http://192.168.100.1:3000/hb_shaoerkejiao/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_wenlvtiyu" tvg-name="文旅体育" group-title="河北频道",文旅体育
+http://192.168.100.1:3000/hb_wenlvtiyu/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_hebeidushi" tvg-name="河北都市" group-title="河北频道",河北都市
+http://192.168.100.1:3000/hb_hebeidushi/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_jingjishenghuo" tvg-name="经济生活" group-title="河北频道",经济生活
+http://192.168.100.1:3000/hb_jingjishenghuo/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_hebeiweishi" tvg-name="河北卫视" group-title="河北频道",河北卫视
+http://192.168.100.1:3000/hb_hebeiweishi/playlist.m3u8
+#EXTINF:-1 tvg-id="hb_sannongpindao" tvg-name="三农频道" group-title="河北频道",三农频道
+http://192.168.100.1:3000/hb_sannongpindao/playlist.m3u8
+
+
 
