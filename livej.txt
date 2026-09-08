@@ -1,113 +1,144 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="",CCTV-1
-http://192.168.2.1:3000/cctv1/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="",CCTV-2
-http://192.168.2.1:3000/cctv2/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3" group-title="",CCTV-3
-http://192.168.2.1:3000/cctv3/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="",CCTV-4
-http://192.168.2.1:3000/cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5" group-title="",CCTV-5
-http://192.168.2.1:3000/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV-5+" group-title="",CCTV-5+
-http://192.168.2.1:3000/cctv5p/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="",CCTV-6
-http://192.168.2.1:3000/cctv6/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="",CCTV-7
-http://192.168.2.1:3000/cctv7/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV-8" group-title="",CCTV-8
-http://192.168.2.1:3000/cctv8/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV-9" group-title="",CCTV-9
-http://192.168.2.1:3000/cctv9/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV-10" group-title="",CCTV-10
-http://192.168.2.1:3000/cctv10/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11" group-title="",CCTV-11
-http://192.168.2.1:3000/cctv11/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12" group-title="",CCTV-12
-http://192.168.2.1:3000/cctv12/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="",CCTV-13
-http://192.168.2.1:3000/cctv13/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14" group-title="",CCTV-14
-http://192.168.2.1:3000/cctv14/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15" group-title="",CCTV-15
-http://192.168.2.1:3000/cctv15/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV-16" group-title="",CCTV-16
-http://192.168.2.1:3000/cctv16/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV-17" group-title="",CCTV-17
-http://192.168.2.1:3000/cctv17/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsjy" tvg-name="江苏教育" group-title="",江苏教育
-http://192.168.2.1:3000/js_jsjy/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsxw" tvg-name="江苏新闻" group-title="",江苏新闻
-http://192.168.2.1:3000/js_jsxw/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsws4k" tvg-name="江苏卫视(4K)" group-title="",江苏卫视(4K)
-http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jszy" tvg-name="江苏综艺" group-title="",江苏综艺
-http://192.168.2.1:3000/js_jszy/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsgj" tvg-name="江苏国际" group-title="",江苏国际
-http://192.168.2.1:3000/js_jsgj/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsws" tvg-name="江苏卫视" group-title="",江苏卫视
-http://192.168.2.1:3000/js_jsws/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsys" tvg-name="江苏影视" group-title="",江苏影视
-http://192.168.2.1:3000/js_jsys/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jsxx" tvg-name="江苏体育休闲" group-title="",江苏体育休闲
-http://192.168.2.1:3000/js_jsxx/playlist.m3u8
-#EXTINF:-1 tvg-id="js_jscs" tvg-name="江苏城市" group-title="",江苏城市
-http://192.168.2.1:3000/js_jscs/playlist.m3u8
-#EXTINF:-1 tvg-id="js_ymkt" tvg-name="优漫卡通" group-title="",优漫卡通
-http://192.168.2.1:3000/js_ymkt/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_jiaokeyingshi" tvg-name="教科影视" group-title="",教科影视
-http://192.168.2.1:3000/zj_jiaokeyingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_shaoerpindao" tvg-name="少儿频道" group-title="",少儿频道
-http://192.168.2.1:3000/zj_shaoerpindao/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_xinwen" tvg-name="新闻" group-title="",新闻
-http://192.168.2.1:3000/zj_xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_zhijiangjilu" tvg-name="之江纪录" group-title="",之江纪录
-http://192.168.2.1:3000/zj_zhijiangjilu/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_zhejiangweishi" tvg-name="浙江卫视" group-title="",浙江卫视
-http://192.168.2.1:3000/zj_zhejiangweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_minshengxiuxian" tvg-name="民生休闲" group-title="",民生休闲
-http://192.168.2.1:3000/zj_minshengxiuxian/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_guoji" tvg-name="浙江国际" group-title="",浙江国际
-http://192.168.2.1:3000/zj_guoji/playlist.m3u8
-#EXTINF:-1 tvg-id="zj_qianjiangdushi" tvg-name="钱江都市" group-title="",钱江都市
-http://192.168.2.1:3000/zj_qianjiangdushi/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_shpd" tvg-name="生活频道" group-title="",生活频道
-http://192.168.2.1:3000/sd_shpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_zypd" tvg-name="综艺频道" group-title="",综艺频道
-http://192.168.2.1:3000/sd_zypd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_sdtv" tvg-name="山东卫视" group-title="",山东卫视
-http://192.168.2.1:3000/sd_sdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_yspd" tvg-name="文旅频道" group-title="",文旅频道
-http://192.168.2.1:3000/sd_yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_nkpd" tvg-name="农科频道" group-title="",农科频道
-http://192.168.2.1:3000/sd_nkpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_typd" tvg-name="体育频道" group-title="",体育频道
-http://192.168.2.1:3000/sd_typd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_sepd" tvg-name="少儿频道" group-title="",少儿频道
-http://192.168.2.1:3000/sd_sepd/playlist.m3u8
-#EXTINF:-1 tvg-id="sd_qlpd" tvg-name="齐鲁频道" group-title="",齐鲁频道
-http://192.168.2.1:3000/sd_qlpd/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_wuxingtiyu" tvg-name="五星体育" group-title="",五星体育
-http://192.168.2.1:3000/sh_wuxingtiyu/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_hahaxuandong" tvg-name="哈哈炫动" group-title="",哈哈炫动
-http://192.168.2.1:3000/sh_hahaxuandong/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_xinjishi" tvg-name="新纪实" group-title="",新纪实
-http://192.168.2.1:3000/sh_xinjishi/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_diyicaijing" tvg-name="第一财经" group-title="",第一财经
-http://192.168.2.1:3000/sh_diyicaijing/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_xinwen" tvg-name="新闻综合" group-title="",新闻综合
-http://192.168.2.1:3000/sh_xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="sh_dongfang" tvg-name="东方卫视" group-title="",东方卫视
-http://192.168.2.1:3000/sh_dongfang/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_shaoerkejiao" tvg-name="少儿科教" group-title="",少儿科教
-http://192.168.2.1:3000/hb_shaoerkejiao/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_wenlvtiyu" tvg-name="文旅体育" group-title="",文旅体育
-http://192.168.2.1:3000/hb_wenlvtiyu/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_hebeidushi" tvg-name="河北都市" group-title="",河北都市
-http://192.168.2.1:3000/hb_hebeidushi/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_jingjishenghuo" tvg-name="经济生活" group-title="",经济生活
-http://192.168.2.1:3000/hb_jingjishenghuo/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_hebeiweishi" tvg-name="河北卫视" group-title="",河北卫视
-http://192.168.2.1:3000/hb_hebeiweishi/playlist.m3u8
-#EXTINF:-1 tvg-id="hb_sannongpindao" tvg-name="三农频道" group-title="",三农频道
-http://192.168.2.1:3000/hb_sannongpindao/playlist.m3u8
+CCTV1综合,http://192.168.2.1:4000/608807420
+CCTV2财经,http://192.168.2.1:4000/631780532
+CCTV3综艺,http://192.168.2.1:4000/624878271
+CCTV4中文国际,http://192.168.2.1:4000/631780421
+CCTV5体育,http://192.168.2.1:4000/641886683
+CCTV5+体育赛事,http://192.168.2.1:4000/641886773
+CCTV6电影,http://192.168.2.1:4000/624878396
+CCTV7国防军事,http://192.168.2.1:4000/673168121
+CCTV8电视剧,http://192.168.2.1:4000/624878356
+CCTV9纪录,http://192.168.2.1:4000/673168140
+CCTV10科教,http://192.168.2.1:4000/624878405
+CCTV11戏曲,http://192.168.2.1:4000/667987558
+CCTV12社会与法,http://192.168.2.1:4000/673168185
+CCTV13新闻,http://192.168.2.1:4000/608807423
+CCTV14少儿,http://192.168.2.1:4000/624878440
+CCTV15音乐,http://192.168.2.1:4000/673168223
+CCTV-16,http://192.168.2.1:3000/cctv16/playlist.m3u8
+CCTV17农业农村,http://192.168.2.1:4000/673168256
+发现之旅,http://192.168.2.1:4000/624878970
+中学生,http://192.168.2.1:4000/708869532
+东方卫视,http://192.168.2.1:4000/651632648
+江苏卫视,http://192.168.2.1:4000/623899368
+广东卫视,http://192.168.2.1:4000/608831231
+北京卫视,http://192.168.2.1:4000/630287636
+辽宁卫视,http://192.168.2.1:4000/630291707
+河北卫视,http://192.168.2.1:4000/962042070
+江西卫视,http://192.168.2.1:4000/783847495
+河南卫视,http://192.168.2.1:4000/790187291
+陕西卫视,http://192.168.2.1:4000/738910838
+大湾区卫视,http://192.168.2.1:4000/608917627
+湖北卫视,http://192.168.2.1:4000/947472496
+吉林卫视,http://192.168.2.1:4000/947472500
+青海卫视,http://192.168.2.1:4000/947472506
+东南卫视,http://192.168.2.1:4000/849116810
+海南卫视,http://192.168.2.1:4000/947472502
+海峡卫视,http://192.168.2.1:4000/849119120
+中国农林卫视,http://192.168.2.1:4000/956904896
+兵团卫视,http://192.168.2.1:4000/956923145
+宁夏卫视,http://192.168.2.1:4000/738910535
+重庆卫视,http://192.168.2.1:4000/738910914
+三沙卫视,http://192.168.2.1:4000/961023778
+黑龙江卫视,http://192.168.2.1:4000/738906901
+上海新闻综合,http://192.168.2.1:4000/651632657
+上视东方影视,http://192.168.2.1:4000/617290047
+上海第一财经,http://192.168.2.1:4000/608780988
+南京新闻综合频道,http://192.168.2.1:4000/838109047
+南京教科频道,http://192.168.2.1:4000/838153729
+南京十八频道,http://192.168.2.1:4000/838151753
+体育休闲频道,http://192.168.2.1:4000/626064707
+江苏城市频道,http://192.168.2.1:4000/626064714
+江苏国际,http://192.168.2.1:4000/626064674
+江苏教育,http://192.168.2.1:4000/628008321
+江苏影视频道,http://192.168.2.1:4000/626064697
+江苏综艺频道,http://192.168.2.1:4000/626065193
+公共新闻频道,http://192.168.2.1:4000/626064693
+盐城新闻综合,http://192.168.2.1:4000/639731825
+淮安新闻综合,http://192.168.2.1:4000/639731826
+泰州新闻综合,http://192.168.2.1:4000/639731818
+连云港新闻综合,http://192.168.2.1:4000/639731715
+宿迁新闻综合,http://192.168.2.1:4000/639731832
+徐州新闻综合,http://192.168.2.1:4000/639731747
+优漫卡通频道,http://192.168.2.1:4000/626064703
+江阴新闻综合,http://192.168.2.1:4000/955227979
+南通新闻综合,http://192.168.2.1:4000/955227985
+宜兴新闻综合,http://192.168.2.1:4000/955227996
+溧水新闻综合,http://192.168.2.1:4000/639737327
+陕西银龄频道,http://192.168.2.1:4000/956909362
+陕西都市青春频道,http://192.168.2.1:4000/956909358
+陕西秦腔频道,http://192.168.2.1:4000/956909303
+陕西新闻资讯频道,http://192.168.2.1:4000/956909289
+建党105周年巡礼,http://192.168.2.1:4000/713600957
+经典香港电影,http://192.168.2.1:4000/625703337
+新片放映厅,http://192.168.2.1:4000/619495952
+CHC影迷电影,http://192.168.2.1:4000/952383261
+CHC动作电影,http://192.168.2.1:4000/644368714
+CHC家庭影院,http://192.168.2.1:4000/644368373
+和美乡途轮播台,http://192.168.2.1:4000/713591450
+南方影视,http://192.168.2.1:4000/614961829
+中国天气,http://192.168.2.1:4000/959986621
+CETV1,http://192.168.2.1:4000/923287154
+CETV2,http://192.168.2.1:4000/923287211
+CETV4,http://192.168.2.1:4000/923287339
+经典动画大集合,http://192.168.2.1:4000/629942219
+
+CCTV1综合,http://192.168.2.1:3000/cctv1/playlist.m3u8
+CCTV2财经,http://192.168.2.1:3000/cctv2/playlist.m3u8
+CCTV3综艺,http://192.168.2.1:3000/cctv3/playlist.m3u8
+CCTV4中文国际,http://192.168.2.1:3000/cctv4/playlist.m3u8
+CCTV5体育,http://192.168.2.1:3000/cctv5/playlist.m3u8
+CCTV5+体育赛事,http://192.168.2.1:3000/cctv5p/playlist.m3u8
+CCTV6电影,http://192.168.2.1:3000/cctv6/playlist.m3u8
+CCTV7国防军事,http://192.168.2.1:3000/cctv7/playlist.m3u8
+CCTV8电视剧,http://192.168.2.1:3000/cctv8/playlist.m3u8
+CCTV9纪录,http://192.168.2.1:3000/cctv9/playlist.m3u8
+CCTV10科教,http://192.168.2.1:3000/cctv10/playlist.m3u8
+CCTV11戏曲,http://192.168.2.1:3000/cctv11/playlist.m3u8
+CCTV12社会与法,http://192.168.2.1:3000/cctv12/playlist.m3u8
+CCTV13新闻,http://192.168.2.1:3000/cctv13/playlist.m3u8
+CCTV14少儿,http://192.168.2.1:3000/cctv14/playlist.m3u8
+CCTV15音乐,http://192.168.2.1:3000/cctv15/playlist.m3u8
+CCTV-16,http://192.168.2.1:3000/cctv16/playlist.m3u8
+CCTV17农业农村http://192.168.2.1:3000/cctv17/playlist.m3u8
+江苏教育,http://192.168.2.1:3000/js_jsjy/playlist.m3u8
+江苏新闻,http://192.168.2.1:3000/js_jsxw/playlist.m3u8
+江苏卫视(4K),http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
+江苏综艺,http://192.168.2.1:3000/js_jszy/playlist.m3u8
+江苏国际,http://192.168.2.1:3000/js_jsgj/playlist.m3u8
+江苏卫视,http://192.168.2.1:3000/js_jsws/playlist.m3u8
+江苏影视,http://192.168.2.1:3000/js_jsys/playlist.m3u8
+江苏体育休闲,http://192.168.2.1:3000/js_jsxx/playlist.m3u8
+江苏城市,http://192.168.2.1:3000/js_jscs/playlist.m3u8
+优漫卡通,http://192.168.2.1:3000/js_ymkt/playlist.m3u8
+教科影视,http://192.168.2.1:3000/zj_jiaokeyingshi/playlist.m3u8
+少儿频道,http://192.168.2.1:3000/zj_shaoerpindao/playlist.m3u8
+新闻,http://192.168.2.1:3000/zj_xinwen/playlist.m3u8
+之江纪录,http://192.168.2.1:3000/zj_zhijiangjilu/playlist.m3u8
+浙江卫视,http://192.168.2.1:3000/zj_zhejiangweishi/playlist.m3u8
+民生休闲,http://192.168.2.1:3000/zj_minshengxiuxian/playlist.m3u8
+浙江国际,http://192.168.2.1:3000/zj_guoji/playlist.m3u8
+钱江都市,http://192.168.2.1:3000/zj_qianjiangdushi/playlist.m3u8
+生活频道,http://192.168.2.1:3000/sd_shpd/playlist.m3u8
+综艺频道,http://192.168.2.1:3000/sd_zypd/playlist.m3u8
+山东卫视,http://192.168.2.1:3000/sd_sdtv/playlist.m3u8
+文旅频道,http://192.168.2.1:3000/sd_yspd/playlist.m3u8
+农科频道,http://192.168.2.1:3000/sd_nkpd/playlist.m3u8
+体育频道,http://192.168.2.1:3000/sd_typd/playlist.m3u8
+少儿频道,http://192.168.2.1:3000/sd_sepd/playlist.m3u8
+齐鲁频道,http://192.168.2.1:3000/sd_qlpd/playlist.m3u8
+五星体育,http://192.168.2.1:3000/sh_wuxingtiyu/playlist.m3u8
+哈哈炫动,http://192.168.2.1:3000/sh_hahaxuandong/playlist.m3u8
+新纪实,http://192.168.2.1:3000/sh_xinjishi/playlist.m3u8
+第一财经,http://192.168.2.1:3000/sh_diyicaijing/playlist.m3u8
+新闻综合,http://192.168.2.1:3000/sh_xinwen/playlist.m3u8
+东方卫视,http://192.168.2.1:3000/sh_dongfang/playlist.m3u8
+少儿科教,http://192.168.2.1:3000/hb_shaoerkejiao/playlist.m3u8
+文旅体育,http://192.168.2.1:3000/hb_wenlvtiyu/playlist.m3u8
+河北都市,http://192.168.2.1:3000/hb_hebeidushi/playlist.m3u8
+经济生活,http://192.168.2.1:3000/hb_jingjishenghuo/playlist.m3u8
+河北卫视,http://192.168.2.1:3000/hb_hebeiweishi/playlist.m3u8
+三农频道,http://192.168.2.1:3000/hb_sannongpindao/playlist.m3u8
+
+
+
+
