@@ -127,18 +127,7 @@ http://192.168.100.1:1905/relay/ysp-vip-cctvwhjp.m3u8
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" catchup="none" group-title="",CCTV央视台球
 http://192.168.100.1:1905/relay/ysp-vip-cctvtq.m3u8
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" catchup="none" group-title="",CCTV电视指南
-http://192.168.100.1:1905/relay/ysp-vip-cctvdszn.m3u8
-#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" catchup="none" group-title="",CCTV卫生健康
-http://192.168.100.1:1905/relay/ysp-vip-cctvwsjk.m3u8
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="",CCTV5体育
-http://192.168.100.1:1905/641886683
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="",CCTV5+体育赛事
-http://192.168.100.1:1905/641886773
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="",赛事最经典
-http://192.168.100.1:1905/646596895
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="",体坛名栏汇
-http://192.168.100.1:1905/629943305
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="",四海钓鱼
+
 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="",CCTV1综合
 http://192.168.100.1:4000/608807420
