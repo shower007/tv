@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="",Gay
-http://cdn.adultiptv.net/gay.m3u8
-
-
 #EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="",CCTV-1
 http://192.168.100.1:3000/cctv1/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="",CCTV-2
@@ -115,6 +111,7 @@ http://192.168.100.1:3000/hb_jingjishenghuo/playlist.m3u8
 http://192.168.100.1:3000/hb_hebeiweishi/playlist.m3u8
 #EXTINF:-1 tvg-id="hb_sannongpindao" tvg-name="三农频道" group-title="",三农频道
 http://192.168.100.1:3000/hb_sannongpindao/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="",Gay
+http://cdn.adultiptv.net/gay.m3u8
 
 
