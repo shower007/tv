@@ -104,30 +104,8 @@ http://192.168.100.1:1905/relay/ysp-nmgws.m3u8
 http://192.168.100.1:1905/relay/ysp-ynws.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" catchup="none" group-title="",山西卫视
 http://192.168.100.1:1905/relay/ysp-shanxiws2.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" catchup="none" group-title="",青海卫视
-http://192.168.100.1:1905/relay/ysp-qhws.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" catchup="none" group-title="",西藏卫视
-
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" catchup="none" group-title="",新疆卫视
 http://192.168.100.1:1905/relay/ysp-xjws.m3u8
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" catchup="none" group-title="",CCTV世界地理
-http://192.168.100.1:1905/relay/ysp-vip-cctvsjdl.m3u8
-#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" catchup="none" group-title="",CCTV风云音乐
-http://192.168.100.1:1905/relay/ysp-vip-cctvfyyl.m3u8
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" catchup="none" group-title="",CCTV兵器科技
-http://192.168.100.1:1905/relay/ysp-vip-cctvbqkj.m3u8
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" catchup="none" group-title="",CCTV风云足球
-http://192.168.100.1:1905/relay/ysp-vip-cctvfyzq.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫·网球" tvg-name="CCTV高尔夫·网球" tvg-logo="" catchup="none" group-title="",CCTV高尔夫·网球
-http://192.168.100.1:1905/relay/ysp-vip-cctvgfew.m3u8
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" catchup="none" group-title="",CCTV女性时尚
-http://192.168.100.1:1905/relay/ysp-vip-cctvnxss.m3u8
-#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" catchup="none" group-title="",CCTV央视文化精品
-http://192.168.100.1:1905/relay/ysp-vip-cctvwhjp.m3u8
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" catchup="none" group-title="",CCTV央视台球
-http://192.168.100.1:1905/relay/ysp-vip-cctvtq.m3u8
-#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" catchup="none" group-title="",CCTV电视指南
-
 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="",CCTV1综合
 http://192.168.100.1:4000/608807420
