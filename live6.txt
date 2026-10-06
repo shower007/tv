@@ -20,8 +20,16 @@ CCTV16 4K,http://192.168.2.1:1905/relay/ysp-cctv164k.m3u8
 CCTV17农业农村,http://192.168.2.1:1905/relay/ysp-cctv17.m3u8
 CCTV4K超高清,http://192.168.2.1:1905/relay/ysp-cctv4k.m3u8
 CCTV8K超高清,http://192.168.2.1:1905/relay/ysp-cctv8k.m3u8
+
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+江苏卫视4K,http://192.168.2.1:1905/proxy/jstv-676.m3u8
+深圳卫视4K,http://192.168.2.1:1905/proxy/sztv-24725.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+上海新闻综合,http://192.168.2.1:1905/proxy/kankanews-2.m3u8
+第一财经,http://192.168.2.1:1905/proxy/kankanews-5.m3u8
+东方卫视,http://192.168.2.1:1905/proxy/kankanews-1.m3u8
 北京卫视,http://192.168.2.1:1905/relay/ysp-bjws.m3u8
 江苏卫视,http://192.168.2.1:1905/relay/ysp-jsws.m3u8
 东方卫视,http://192.168.2.1:1905/relay/ysp-dfws.m3u8
@@ -52,9 +60,7 @@ CCTV8K超高清,http://192.168.2.1:1905/relay/ysp-cctv8k.m3u8
 山西卫视,http://192.168.2.1:1905/relay/ysp-shanxiws2.m3u8
 青海卫视,http://192.168.2.1:1905/relay/ysp-qhws.m3u8
 西藏卫视,http://192.168.2.1:1905/relay/ysp-xzws.m3u8
-
-
-
+新疆卫视,http://192.168.2.1:1905/relay/ysp-xjws.m3u8
 
 
 CCTV1综合,http://192.168.2.1:1905/608807420
@@ -97,7 +103,6 @@ CCTV17农业农村,http://192.168.2.1:1905/673168256
 重庆卫视,http://192.168.2.1:1905/738910914
 三沙卫视,http://192.168.2.1:1905/961023778
 黑龙江卫视,http://192.168.2.1:1905/738906901
-
 
 CCTV1综合,http://192.168.2.1:4000/608807420
 CCTV2财经,http://192.168.2.1:4000/631780532
