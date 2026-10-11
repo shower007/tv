@@ -21,8 +21,8 @@ CCTV17农业农村,http://192.168.2.1:3000/cctv17/playlist.m3u8
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+江苏卫视4K,http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-
 CCTV1综合,http://192.168.2.1:4000/608807420
 CCTV2财经,http://192.168.2.1:4000/631780532
 CCTV3综艺,http://192.168.2.1:4000/624878271
@@ -70,19 +70,14 @@ CCTV17农业农村,http://192.168.2.1:4000/673168256
 
 江苏体育休闲,http://192.168.2.1:3000/js_jsxx/playlist.m3u8
 江苏国际,http://192.168.2.1:3000/js_jsgj/playlist.m3u8
-江苏卫视(4K),http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
 江苏新闻,http://192.168.2.1:3000/js_jsxw/playlist.m3u8
 江苏城市,http://192.168.2.1:3000/js_jscs/playlist.m3u8
 江苏卫视,http://192.168.2.1:3000/js_jsws/playlist.m3u8
 江苏影视,http://192.168.2.1:3000/js_jsys/playlist.m3u8
 江苏教育,http://192.168.2.1:3000/js_jsjy/playlist.m3u8
 江苏综艺,http://192.168.2.1:3000/js_jszy/playlist.m3u8
-优漫卡通,http://192.168.2.1:3000/js_ymkt/playlist.m3u8
 浙江卫视,http://192.168.2.1:3000/zj_zhejiangweishi/playlist.m3u8
 少儿频道,http://192.168.2.1:3000/zj_shaoerpindao/playlist.m3u8
-新闻,http://192.168.2.1:3000/zj_xinwen/playlist.m3u8
-民生休闲,http://192.168.2.1:3000/zj_minshengxiuxian/playlist.m3u8
-教科影视,http://192.168.2.1:3000/zj_jiaokeyingshi/playlist.m3u8
 之江纪录,http://192.168.2.1:3000/zj_zhijiangjilu/playlist.m3u8
 浙江国际,http://192.168.2.1:3000/zj_guoji/playlist.m3u8
 钱江都市,http://192.168.2.1:3000/zj_qianjiangdushi/playlist.m3u8
