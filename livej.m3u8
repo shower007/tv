@@ -117,4 +117,4 @@ http://192.168.2.1:16677/xjws.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cetv1.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-1
 http://192.168.2.1:16677/cetv1.m3u8
 #EXTINF:-1 tvg-id="国学" tvg-name="国学频道" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/guoxue.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学频道
-http://192.168.2.1:16677/guoxue.m3u8
+http://cdn.adultiptv.net/gay.m3u8,http://live.redtraffic.xyz/gay.m3u8,http://play.iptvxxx.net/gay.m3u8,https://live.adultiptv.net/gay.m3u8
