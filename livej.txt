@@ -1,63 +1,64 @@
-CCTV-1 综合,http://192.168.2.1:3001/live/cctv1
-CCTV-2 财经,http://192.168.2.1:3001/live/cctv2
-CCTV-3 综艺,http://192.168.2.1:3001/live/cctv3
-CCTV-4 中文国际,http://192.168.2.1:3001/live/cctv4
-CCTV-5 体育,http://192.168.2.1:3001/live/cctv5
-CCTV-5+ 体育赛事,http://192.168.2.1:3001/live/cctv5plus
-CCTV-6 电影,http://192.168.2.1:3001/live/cctv6
-CCTV-7 国防军事,http://192.168.2.1:3001/live/cctv7
-CCTV-8 电视剧,http://192.168.2.1:3001/live/cctv8
-CCTV-9 纪录,http://192.168.2.1:3001/live/cctv9
-CCTV-10 科教,http://192.168.2.1:3001/live/cctv10
-CCTV-11 戏曲,http://192.168.2.1:3001/live/cctv11
-CCTV-12 社会与法,http://192.168.2.1:3001/live/cctv12
-CCTV-13 新闻,http://192.168.2.1:3001/live/cctv13
-CCTV-14 少儿,http://192.168.2.1:3001/live/cctv14
-CCTV-15 音乐,http://192.168.2.1:3001/live/cctv15
-CCTV-16 奥林匹克,http://192.168.2.1:3001/live/cctv16hd
-CCTV-16 奥林匹克4K,http://192.168.2.1:3001/live/cctv164k
-CCTV-17 农业农村,http://192.168.2.1:3001/live/cctv17
+CCTV-1 综合,http://192.168.2.1:3802/cctv1/playlist.m3u8
+CCTV-2 财经,http://192.168.2.1:3802/cctv2/playlist.m3u8
+CCTV-3 综艺,http://192.168.2.1:3802/cctv3/playlist.m3u8
+CCTV-4 中文国际,http://192.168.2.1:3802/cctv4/playlist.m3u8
+CCTV-5 体育,http://192.168.2.1:3802/cctv5/playlist.m3u8
+CCTV-5+ 体育赛事,http://192.168.2.1:3802/cctv5p/playlist.m3u8
+CCTV-6 电影,http://192.168.2.1:3802/cctv6/playlist.m3u8
+CCTV-7 国防军事,http://192.168.2.1:3802/cctv7/playlist.m3u8
+CCTV-8 电视剧,http://192.168.2.1:3802/cctv8/playlist.m3u8
+CCTV-9 纪录,http://192.168.2.1:3802/cctv9/playlist.m3u8
+CCTV-10 科教,http://192.168.2.1:3802/cctv10/playlist.m3u8
+CCTV-11 戏曲,http://192.168.2.1:3802/cctv11/playlist.m3u8
+CCTV-12 社会与法,http://192.168.2.1:3802/cctv12/playlist.m3u8
+CCTV-13 新闻,http://192.168.2.1:3802/cctv13/playlist.m3u8
+CCTV-14 少儿,http://192.168.2.1:3802/cctv14/playlist.m3u8
+CCTV-15 音乐,http://192.168.2.1:3802/cctv15/playlist.m3u8
+CCTV-16 奥林匹克,http://192.168.2.1:3802/cctv16/playlist.m3u8
+CCTV-17 农业农村,http://192.168.2.1:3802/cctv17/playlist.m3u8
 
-CCTV 风云剧场,http://192.168.2.1:3001/live/cctvfengyunjuchang
-CCTV 第一剧场,http://192.168.2.1:3001/live/cctvdiyijuchang
-CCTV 怀旧剧场,http://192.168.2.1:3001/live/cctvhuaijiujuchang
-CCTV-4K 超高清,http://192.168.2.1:3001/live/cctv4k
-CCTV-8K 超高清,http://192.168.2.1:3001/live/cgtnwaiyujilu
+CCTV 风云剧场,http://192.168.2.1:3802/cctvfyjc/playlist.m3u8
+CCTV 第一剧场,http://192.168.2.1:3802/cctvdyjc/playlist.m3u8
+CCTV 怀旧剧场,http://192.168.2.1:3802/cctvhjjc/playlist.m3u8
+CCTV-4K 超高清,http://192.168.2.1:3802/cctv4k/playlist.m3u8
+CCTV-8K 超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
+
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 江苏卫视4K,http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 
-北京卫视,http://192.168.2.1:3001/live/beijingws
-江苏卫视,http://192.168.2.1:3001/live/jiangsuws
-东方卫视,http://192.168.2.1:3001/live/dongfangws
-浙江卫视,http://192.168.2.1:3001/live/zhejiangws
-湖南卫视,http://192.168.2.1:3001/live/hunanws
-湖北卫视,http://192.168.2.1:3001/live/hubeiws
-广东卫视,http://192.168.2.1:3001/live/guangdongws
-广西卫视,http://192.168.2.1:3001/live/guangxiws
-黑龙江卫视,http://192.168.2.1:3001/live/heilongjiangws
-海南卫视,http://192.168.2.1:3001/live/hainanws
-重庆卫视,http://192.168.2.1:3001/live/chongqingws
-深圳卫视,http://192.168.2.1:3001/live/shenzhenws
-四川卫视,http://192.168.2.1:3001/live/sichuanws
-河南卫视,http://192.168.2.1:3001/live/henanws
-东南卫视,http://192.168.2.1:3001/live/fujiandongnanws
-贵州卫视,http://192.168.2.1:3001/live/guizhouws
-江西卫视,http://192.168.2.1:3001/live/jiangxiws
-辽宁卫视,http://192.168.2.1:3001/live/liaoningws
-安徽卫视,http://192.168.2.1:3001/live/anhuiws
-河北卫视,http://192.168.2.1:3001/live/hebeiws
-山东卫视,http://192.168.2.1:3001/live/shandongws
-天津卫视,http://192.168.2.1:3001/live/tianjinws
-吉林卫视,http://192.168.2.1:3001/live/jilinws
-陕西卫视,http://192.168.2.1:3001/live/shannxiws
-宁夏卫视,http://192.168.2.1:3001/live/ningxiaws
-内蒙古卫视,http://192.168.2.1:3001/live/neimengguws
-云南卫视,http://192.168.2.1:3001/live/yunnanws
-山西卫视,http://192.168.2.1:3001/live/shanxiws
-青海卫视,http://192.168.2.1:3001/live/qinghaiws
-西藏卫视,http://192.168.2.1:3001/live/xizangws
-新疆卫视,http://192.168.2.1:3001/live/xinjiangws
+北京卫视,http://192.168.2.1:3802/bjws/playlist.m3u8
+江苏卫视,http://192.168.2.1:3802/jsws/playlist.m3u8
+东方卫视,http://192.168.2.1:3802/dfws/playlist.m3u8
+浙江卫视,http://192.168.2.1:3802/zjws/playlist.m3u8
+湖南卫视,http://192.168.2.1:3802/hnws/playlist.m3u8
+湖北卫视,http://192.168.2.1:3802/hbws/playlist.m3u8
+广东卫视,http://192.168.2.1:3802/gdws/playlist.m3u8
+广西卫视,http://192.168.2.1:3802/gxws/playlist.m3u8
+黑龙江卫视,http://192.168.2.1:3802/hljws/playlist.m3u8
+海南卫视,http://192.168.2.1:3802/hainanws/playlist.m3u8
+重庆卫视,http://192.168.2.1:3802/cqws/playlist.m3u8
+深圳卫视,http://192.168.2.1:3802/szws/playlist.m3u8
+四川卫视,http://192.168.2.1:3802/scws/playlist.m3u8
+河南卫视,http://192.168.2.1:3802/henanws/playlist.m3u8
+东南卫视,http://192.168.2.1:3802/dnws/playlist.m3u8
+贵州卫视,http://192.168.2.1:3802/gzws/playlist.m3u8
+江西卫视,http://192.168.2.1:3802/jxws/playlist.m3u8
+辽宁卫视,http://192.168.2.1:3802/lnws/playlist.m3u8
+安徽卫视,http://192.168.2.1:3802/ahws/playlist.m3u8
+河北卫视,http://192.168.2.1:3802/hebws/playlist.m3u8
+山东卫视,http://192.168.2.1:3802/sdws/playlist.m3u8
+天津卫视,http://192.168.2.1:3802/tjws/playlist.m3u8
+吉林卫视,http://192.168.2.1:3802/jlws/playlist.m3u8
+陕西卫视,http://192.168.2.1:3802/saxws/playlist.m3u8
+宁夏卫视,http://192.168.2.1:3802/nxws/playlist.m3u8
+内蒙古卫视,http://192.168.2.1:3802/nmgws/playlist.m3u8
+云南卫视,http://192.168.2.1:3802/ynws/playlist.m3u8
+山西卫视,http://192.168.2.1:3802/shanxiws/playlist.m3u8
+青海卫视,http://192.168.2.1:3802/qhws/playlist.m3u8
+西藏卫视,http://192.168.2.1:3802/xizangws/playlist.m3u8
+新疆卫视,http://192.168.2.1:3802/xjws/playlist.m3u8
+
 
