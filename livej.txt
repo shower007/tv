@@ -1,27 +1,26 @@
-CCTV-1 综合,http://192.168.2.1:3802/cctv1/playlist.m3u8
-CCTV-2 财经,http://192.168.2.1:3802/cctv2/playlist.m3u8
-CCTV-3 综艺,http://192.168.2.1:3802/cctv3/playlist.m3u8
-CCTV-4 中文国际,http://192.168.2.1:3802/cctv4/playlist.m3u8
-CCTV-5 体育,http://192.168.2.1:3802/cctv5/playlist.m3u8
-CCTV-5+ 体育赛事,http://192.168.2.1:3802/cctv5p/playlist.m3u8
-CCTV-6 电影,http://192.168.2.1:3802/cctv6/playlist.m3u8
-CCTV-7 国防军事,http://192.168.2.1:3802/cctv7/playlist.m3u8
-CCTV-8 电视剧,http://192.168.2.1:3802/cctv8/playlist.m3u8
-CCTV-9 纪录,http://192.168.2.1:3802/cctv9/playlist.m3u8
-CCTV-10 科教,http://192.168.2.1:3802/cctv10/playlist.m3u8
-CCTV-11 戏曲,http://192.168.2.1:3802/cctv11/playlist.m3u8
-CCTV-12 社会与法,http://192.168.2.1:3802/cctv12/playlist.m3u8
-CCTV-13 新闻,http://192.168.2.1:3802/cctv13/playlist.m3u8
-CCTV-14 少儿,http://192.168.2.1:3802/cctv14/playlist.m3u8
-CCTV-15 音乐,http://192.168.2.1:3802/cctv15/playlist.m3u8
-CCTV-16 奥林匹克,http://192.168.2.1:3802/cctv16/playlist.m3u8
-CCTV-17 农业农村,http://192.168.2.1:3802/cctv17/playlist.m3u8
+CCTV1综合,http://192.168.2.1:3802/cctv1/playlist.m3u8
+CCTV2财经,http://192.168.2.1:3802/cctv2/playlist.m3u8
+CCTV3综艺,http://192.168.2.1:3802/cctv3/playlist.m3u8
+CCTV4中文国际,http://192.168.2.1:3802/cctv4/playlist.m3u8
+CCTV5体育,http://192.168.2.1:3802/cctv5/playlist.m3u8
+CCTV5+体育赛事,http://192.168.2.1:3802/cctv5p/playlist.m3u8
+CCTV6电影,http://192.168.2.1:3802/cctv6/playlist.m3u8
+CCTV7国防军事,http://192.168.2.1:3802/cctv7/playlist.m3u8
+CCTV8电视剧,http://192.168.2.1:3802/cctv8/playlist.m3u8
+CCTV9纪录,http://192.168.2.1:3802/cctv9/playlist.m3u8
+CCTV10科教,http://192.168.2.1:3802/cctv10/playlist.m3u8
+CCTV11戏曲,http://192.168.2.1:3802/cctv11/playlist.m3u8
+CCTV12社会与法,http://192.168.2.1:3802/cctv12/playlist.m3u8
+CCTV13新闻,http://192.168.2.1:3802/cctv13/playlist.m3u8
+CCTV14少儿,http://192.168.2.1:3802/cctv14/playlist.m3u8
+CCTV15音乐,http://192.168.2.1:3802/cctv15/playlist.m3u8
+CCTV16奥林匹克,http://192.168.2.1:3802/cctv16/playlist.m3u8
+CCTV17农业农村,http://192.168.2.1:3802/cctv17/playlist.m3u8
 
-CCTV 风云剧场,http://192.168.2.1:3802/cctvfyjc/playlist.m3u8
-CCTV 第一剧场,http://192.168.2.1:3802/cctvdyjc/playlist.m3u8
-CCTV 怀旧剧场,http://192.168.2.1:3802/cctvhjjc/playlist.m3u8
-CCTV-4K 超高清,http://192.168.2.1:3802/cctv4k/playlist.m3u8
-CCTV-8K 超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
+CCTV风云剧场,http://192.168.2.1:3802/cctvfyjc/playlist.m3u8
+CCTV第一剧场,http://192.168.2.1:3802/cctvdyjc/playlist.m3u8
+CCTV怀旧剧场,http://192.168.2.1:3802/cctvhjjc/playlist.m3u8
+CCTV8K超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -60,5 +59,27 @@ CCTV-8K 超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
 青海卫视,http://192.168.2.1:3802/qhws/playlist.m3u8
 西藏卫视,http://192.168.2.1:3802/xizangws/playlist.m3u8
 新疆卫视,http://192.168.2.1:3802/xjws/playlist.m3u8
+
+CCTV1综合,http://192.168.2.1:3000/cctv1/playlist.m3u8
+CCTV2财经,http://192.168.2.1:3000/cctv2/playlist.m3u8
+CCTV3综艺,http://192.168.2.1:3000/cctv3/playlist.m3u8
+CCTV4中文国际,http://192.168.2.1:3000/cctv4/playlist.m3u8
+CCTV5体育,http://192.168.2.1:3000/cctv5/playlist.m3u8
+CCTV5+体育赛事,http://192.168.2.1:3000/cctv5p/playlist.m3u8
+CCTV6电影,http://192.168.2.1:3000/cctv6/playlist.m3u8
+CCTV7国防军事,http://192.168.2.1:3000/cctv7/playlist.m3u8
+CCTV8电视剧,http://192.168.2.1:3000/cctv8/playlist.m3u8
+CCTV9纪录,,http://192.168.2.1:3000/cctv9/playlist.m3u8
+CCTV10科教,http://192.168.2.1:3000/cctv10/playlist.m3u8
+CCTV11戏曲,http://192.168.2.1:3000/cctv11/playlist.m3u8
+CCTV12社会与法,http://192.168.2.1:3000/cctv12/playlist.m3u8
+CCTV13新闻,http://192.168.2.1:3000/cctv13/playlist.m3u8
+CCTV14少儿,http://192.168.2.1:3000/cctv14/playlist.m3u8
+CCTV15音乐,http://192.168.2.1:3000/cctv15/playlist.m3u8
+CCTV16奥林匹克,http://192.168.2.1:3000/cctv16/playlist.m3u8
+CCTV17农业农村,http://192.168.2.1:3000/cctv17/playlist.m3u8
+
+
+
 
 
