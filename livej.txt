@@ -1,4 +1,35 @@
 1080,#genre#
+CCTV1综合,http://192.168.2.1:3802/live/cctv1
+CCTV2财经,http://192.168.2.1:3802/live/cctv2
+CCTV3 综艺,http://192.168.2.1:3802/live/cctv3
+CCTV-中文国际,http://192.168.2.1:3802/live/cctv4
+CCTV5体育,http://192.168.2.1:3802/live/cctv5
+CCTV5+体育赛事,http://192.168.2.1:3802/live/cctv5plus
+CCTV6电影,http://192.168.2.1:3802/live/cctv6
+CCTV7国防军事,http://192.168.2.1:3802/live/cctv7
+CCTV8电视剧,http://192.168.2.1:3802/live/cctv8
+CCTV9纪录,http://192.168.2.1:3802/live/cctv9
+CCTV10科教,http://192.168.2.1:3802/live/cctv10
+CCTV11戏曲,http://192.168.2.1:3802/live/cctv11
+CCTV12社会与法,http://192.168.2.1:3802/live/cctv12
+CCTV13新闻,http://192.168.2.1:3802/live/cctv13
+CCTV14少儿,http://192.168.2.1:3802/live/cctv14
+CCTV15音乐,http://192.168.2.1:3802/live/cctv15
+CCTV16奥林匹克,http://192.168.2.1:3802/live/cctv16hd
+CCTV16奥林匹克4K,http://192.168.2.1:3802/live/cctv164k
+CCTV17农业农村,http://192.168.2.1:3802/live/cctv17
+CCTV4K超高清,http://192.168.2.1:3802/live/cctv4k
+CCTV8K超高清,http://192.168.2.1:3802/live/cctv8k
+CCTV风云剧场,http://192.168.2.1:3802/live/cctvfengyunjuchang
+CCTV第一剧场,http://192.168.2.1:3802/live/cctvdiyijuchang
+CCTV怀旧剧场,http://192.168.2.1:3802/live/cctvhuaijiujuchang
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+江苏卫视4K,http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+
+
 CCTV1综合,http://192.168.2.1:3802/cctv1/playlist.m3u8
 CCTV2财经,http://192.168.2.1:3802/cctv2/playlist.m3u8
 CCTV3综艺,http://192.168.2.1:3802/cctv3/playlist.m3u8
@@ -21,13 +52,42 @@ CCTV风云剧场,http://192.168.2.1:3802/cctvfyjc/playlist.m3u8
 CCTV第一剧场,http://192.168.2.1:3802/cctvdyjc/playlist.m3u8
 CCTV怀旧剧场,http://192.168.2.1:3802/cctvhjjc/playlist.m3u8
 CCTV8K超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
+北京卫视,http://192.168.2.1:3802/live/beijingws
+江苏卫视,http://192.168.2.1:3802/live/jiangsuws
+东方卫视,http://192.168.2.1:3802/live/dongfangws
+浙江卫视,http://192.168.2.1:3802/live/zhejiangws
+湖南卫视,http://192.168.2.1:3802/live/hunanws
+湖北卫视,http://192.168.2.1:3802/live/hubeiws
+广东卫视,http://192.168.2.1:3802/live/guangdongws
+广西卫视,http://192.168.2.1:3802/live/guangxiws
+黑龙江卫视,http://192.168.2.1:3802/live/heilongjiangws
+海南卫视,http://192.168.2.1:3802/live/hainanws
+重庆卫视,http://192.168.2.1:3802/live/chongqingws
+深圳卫视,http://192.168.2.1:3802/live/shenzhenws
+四川卫视,http://192.168.2.1:3802/live/sichuanws
+河南卫视,http://192.168.2.1:3802/live/henanws
+东南卫视,http://192.168.2.1:3802/live/fujiandongnanws
+贵州卫视,http://192.168.2.1:3802/live/guizhouws
+江西卫视,http://192.168.2.1:3802/live/jiangxiws
+辽宁卫视,http://192.168.2.1:3802/live/liaoningws
+安徽卫视,http://192.168.2.1:3802/live/anhuiws
+河北卫视,http://192.168.2.1:3802/live/hebeiws
+山东卫视,http://192.168.2.1:3802/live/shandongws
+天津卫视,http://192.168.2.1:3802/live/tianjinws
+吉林卫视,http://192.168.2.1:3802/live/jilinws
+陕西卫视,http://192.168.2.1:3802/live/shannxiws
+宁夏卫视,http://192.168.2.1:3802/live/ningxiaws
+内蒙古卫视,http://192.168.2.1:3802/live/neimengguws
+云南卫视,http://192.168.2.1:3802/live/yunnanws
+山西卫视,http://192.168.2.1:3802/live/shanxiws
+青海卫视,http://192.168.2.1:3802/live/qinghaiws
+西藏卫视,http://192.168.2.1:3802/live/xizangws
+中国教育电视台一套,http://192.168.2.1:3802/live/cetv1
+新疆卫视,http://192.168.2.1:3802/live/xinjiangws
 
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-江苏卫视4K,http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
-北京卫视,http://192.168.2.1:3802/bjws/playlist.m3u8
+
+{北京卫视,http://192.168.2.1:3802/bjws/playlist.m3u8
 江苏卫视,http://192.168.2.1:3802/jsws/playlist.m3u8
 东方卫视,http://192.168.2.1:3802/dfws/playlist.m3u8
 浙江卫视,http://192.168.2.1:3802/zjws/playlist.m3u8
@@ -57,7 +117,7 @@ CCTV8K超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
 山西卫视,http://192.168.2.1:3802/shanxiws/playlist.m3u8
 青海卫视,http://192.168.2.1:3802/qhws/playlist.m3u8
 西藏卫视,http://192.168.2.1:3802/xizangws/playlist.m3u8
-新疆卫视,http://192.168.2.1:3802/xjws/playlist.m3u8
+新疆卫视,http://192.168.2.1:3802/xjws/playlist.m3u8}
 
 
 
