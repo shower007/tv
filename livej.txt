@@ -1,3 +1,4 @@
+1080,#genre#
 CCTV1综合,http://192.168.2.1:3802/cctv1/playlist.m3u8
 CCTV2财经,http://192.168.2.1:3802/cctv2/playlist.m3u8
 CCTV3综艺,http://192.168.2.1:3802/cctv3/playlist.m3u8
@@ -16,7 +17,6 @@ CCTV14少儿,http://192.168.2.1:3802/cctv14/playlist.m3u8
 CCTV15音乐,http://192.168.2.1:3802/cctv15/playlist.m3u8
 CCTV16奥林匹克,http://192.168.2.1:3802/cctv16/playlist.m3u8
 CCTV17农业农村,http://192.168.2.1:3802/cctv17/playlist.m3u8
-
 CCTV风云剧场,http://192.168.2.1:3802/cctvfyjc/playlist.m3u8
 CCTV第一剧场,http://192.168.2.1:3802/cctvdyjc/playlist.m3u8
 CCTV怀旧剧场,http://192.168.2.1:3802/cctvhjjc/playlist.m3u8
@@ -26,7 +26,6 @@ CCTV8K超高清,http://192.168.2.1:3802/cctv8k/playlist.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 江苏卫视4K,http://192.168.2.1:3000/js_jsws4k/playlist.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-
 
 北京卫视,http://192.168.2.1:3802/bjws/playlist.m3u8
 江苏卫视,http://192.168.2.1:3802/jsws/playlist.m3u8
