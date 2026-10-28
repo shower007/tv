@@ -167,12 +167,6 @@ CCTV17农业农村,http://192.168.2.1:3000/cctv17/playlist.m3u8
 移动电视,http://192.168.2.1:3000/gs_yidongdianshi/playlist.m3u8
 科教频道,http://192.168.2.1:3000/gs_kejiaopindao/playlist.m3u8
 公共应急,http://192.168.2.1:3000/gs_gonggongyingji/playlist.m3u8
-东方卫视,http://192.168.2.1:3000/sh_dongfang/playlist.m3u8
-新闻综合,http://192.168.2.1:3000/sh_xinwen/playlist.m3u8
-第一财经,http://192.168.2.1:3000/sh_diyicaijing/playlist.m3u8
-五星体育,http://192.168.2.1:3000/sh_wuxingtiyu/playlist.m3u8
-新纪实,http://192.168.2.1:3000/sh_xinjishi/playlist.m3u8
-都市频道,http://192.168.2.1:3000/sh_dushi/playlist.m3u8
 山东卫视,http://192.168.2.1:3000/sd_sdtv/playlist.m3u8
 
 
