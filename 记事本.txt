@@ -1,4 +1,4 @@
-
+https://github.com/akiralereal/iptv
 
 docker run -d \
   --name iptv \
@@ -9,6 +9,6 @@ docker run -d \
   -e mrateType=4 \
   --restart always \
   akiralereal/iptv:latest
-
+管理地址  http://192.168.2.1:1905/admin
 
 
