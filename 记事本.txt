@@ -1,0 +1,14 @@
+
+
+docker run -d \
+  --name iptv \
+  -p 1905:1905 \
+  -e muserId= \
+  -e mtoken= \
+  -e mport=1905 \
+  -e mrateType=4 \
+  --restart always \
+  akiralereal/iptv:latest
+
+
+
