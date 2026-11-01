@@ -12,3 +12,31 @@ docker run -d \
 管理地址  http://192.168.2.1:1905/admin
 
 
+https://hub.docker.com/r/wjecee/tv-go
+
+docker rm cctv-service -f || true
+docker rmi wjecee/tv-go:latest || true
+docker pull wjecee/tv-go:latest
+docker run -d \
+  --name cctv-service \
+  --restart=unless-stopped \
+  -e TZ=Asia/Shanghai \
+  -p 3000:3000 \
+  wjecee/tv-go:latest
+
+http://宿主IP:3000/live.m3u
+
+
+
+https://hub.docker.com/r/wjecee/cctv-1080
+
+docker rm cctv-1080 -f || true
+docker rmi wjecee/cctv-1080:latest || true
+docker pull wjecee/cctv-1080:latest
+
+docker run -d --name cctv-1080 -p 3802:3802 --restart unless-stopped wjecee/cctv-1080:latest
+
+docker logs cctv-1080
+
+# 订阅地址# http://host-ip:3802/live.m3u
+
