@@ -1,9 +1,9 @@
  Activate Windows / Office   https://github.com/massgravel/Microsoft-Activation-Scripts
 IDM-Activation-Script        https://github.com/hanmaoye/IDM-Activation-Script  
 Twitter Video Downloader     https://chromevideodownloader.com/welcome?lang=zh_CN
-
-
-
+形如菜单                      https://github.com/Open-Shell/Open-Shell-Menu
+随身听书                      https://github.com/whykang/ssts
+外区ID                       https://consumer.huawei.com/hk/mobileservices/id/
 
 https://github.com/mifi/lossless-cut
 LosslessCut 是一款免费开源的无损音视频剪切工具
