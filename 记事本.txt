@@ -1,4 +1,9 @@
- Activate Windows / Office   https://github.com/massgravel/Microsoft-Activation-Scripts
+https://github.com/ZhuLinsen/daily_stock_analysis
+https://github.com/qusong0627/QuantMind
+https://github.com/hzy1522/tickflow-stock-panel
+
+
+Activate Windows / Office   https://github.com/massgravel/Microsoft-Activation-Scripts
 IDM-Activation-Script        https://github.com/hanmaoye/IDM-Activation-Script  
 Twitter Video Downloader     https://chromevideodownloader.com/welcome?lang=zh_CN
 形如菜单                      https://github.com/Open-Shell/Open-Shell-Menu
