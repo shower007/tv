@@ -10,6 +10,17 @@ Twitter Video Downloader     https://chromevideodownloader.com/welcome?lang=zh_C
 随身听书                      https://github.com/whykang/ssts
 外区ID                       https://consumer.huawei.com/hk/mobileservices/id/
 
+
+‌关闭休眠模式：以管理员身份运行‌：右键开始菜单，选择“命令提示符（管理员）”或“Windows 终端（管理员）”。
+‌执行命令‌：输入 powercfg -h off 回车，无提示即成功，hiberfil.sys 自动消失。‌想恢复‌：输入 powercfg -h on，休眠和文件会回来。‌‌
+
+
+
+
+
+
+
+
 https://github.com/mifi/lossless-cut
 LosslessCut 是一款免费开源的无损音视频剪切工具
 
